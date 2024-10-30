@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-30 | [`tlie.org`](https://google.com/search?q=tlie.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-30 | [`nagucoop.com`](https://google.com/search?q=nagucoop.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-30 | [`projektalp.ch`](https://google.com/search?q=projektalp.ch) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-10-30 | [`anhf.org.auh`](https://google.com/search?q=anhf.org.auh) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-21 | [`Trimarc Financial (trimarc.com)`](https://google.com/search?q=Trimarc+Financial+%28trimarc.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-21 | [`yorozu-corp.co.jp`](https://google.com/search?q=yorozu-corp.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-20 | [`qs-group.com`](https://google.com/search?q=qs-group.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-20 | [`Interbel`](https://google.com/search?q=Interbel) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
