@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-30 | [`projektalp.ch`](https://google.com/search?q=projektalp.ch) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-10-30 | [`anhf.org.auh`](https://google.com/search?q=anhf.org.auh) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-10-30 | [`Dirksen Screw Products`](https://google.com/search?q=Dirksen+Screw+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-30 | [`Dana Safety Supply`](https://google.com/search?q=Dana+Safety+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-20 | [`qs-group.com`](https://google.com/search?q=qs-group.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-20 | [`Interbel`](https://google.com/search?q=Interbel) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-10-20 | [`Petropolis Pet Resort`](https://google.com/search?q=Petropolis+Pet+Resort) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-10-20 | [`Superior Quality Insurance Agency`](https://google.com/search?q=Superior+Quality+Insurance+Agency) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
