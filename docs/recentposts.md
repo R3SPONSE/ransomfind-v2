@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-31 | [`mpspromotions.com`](https://google.com/search?q=mpspromotions.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-10-31 | [`freedomhomecare.net`](https://google.com/search?q=freedomhomecare.net) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-10-31 | [`hacla.org\$1.9B\USA\861GB\&lt;1% DISCLOSED`](https://google.com/search?q=hacla.org%5C%241.9B%5CUSA%5C861GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-10-31 | [`BULLONERIE GALVIT`](https://google.com/search?q=BULLONERIE+GALVIT) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-21 | [`City Projects - Full Leak`](https://google.com/search?q=City+Projects+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-10-21 | [`Raeyco Lab Equipment - Full Leak`](https://google.com/search?q=Raeyco+Lab+Equipment+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-10-21 | [`Seng Tsoi Architect - Full Leak`](https://google.com/search?q=Seng+Tsoi+Architect+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-10-21 | [`http://teddy.it`](https://google.com/search?q=http%3A%2F%2Fteddy.it) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
