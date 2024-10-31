@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-10-31 | [`BULLONERIE GALVIT`](https://google.com/search?q=BULLONERIE+GALVIT) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-10-31 | [`iFocus Consulting`](https://google.com/search?q=iFocus+Consulting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-31 | [`Unlimited Lawn Care`](https://google.com/search?q=Unlimited+Lawn+Care) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-31 | [`Sunrise Express`](https://google.com/search?q=Sunrise+Express) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-21 | [`http://teddy.it`](https://google.com/search?q=http%3A%2F%2Fteddy.it) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-10-21 | [`La Tazza D'oro - Full Leak`](https://google.com/search?q=La+Tazza+D%27oro+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-10-21 | [`Burgess Kilpatrick - Full Leak`](https://google.com/search?q=Burgess+Kilpatrick+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-10-21 | [`Welding and Fabrication (Humble Mfg) - Full Leak`](https://google.com/search?q=Welding+and+Fabrication+%28Humble+Mfg%29+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
