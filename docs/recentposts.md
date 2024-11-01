@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-01 | [`Broward Realty Corp Data Leak`](https://google.com/search?q=Broward+Realty+Corp+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-01 | [`Aspen Healthcare Data Leak`](https://google.com/search?q=Aspen+Healthcare+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-01 | [`Arctrade`](https://google.com/search?q=Arctrade) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-10-31 | [`caillau.com.br`](https://google.com/search?q=caillau.com.br) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-21 | [`The Kaiser Enterprise`](https://google.com/search?q=The+Kaiser+Enterprise) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-21 | [`Silver Springs Bottled Water Company`](https://google.com/search?q=Silver+Springs+Bottled+Water+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-21 | [`LEWA`](https://google.com/search?q=LEWA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-10-21 | [`Phyton Biotech - Full Leak`](https://google.com/search?q=Phyton+Biotech+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
