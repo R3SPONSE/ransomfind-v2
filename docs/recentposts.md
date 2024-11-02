@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-02 | [`Valu-Trac Investment Management`](https://google.com/search?q=Valu-Trac+Investment+Management) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-02 | [`propak`](https://google.com/search?q=propak) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-02 | [`Aiken Electric Cooperative`](https://google.com/search?q=Aiken+Electric+Cooperative) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-02 | [`Groupe Althays`](https://google.com/search?q=Groupe+Althays) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-22 | [`bwdtechnology.com`](https://google.com/search?q=bwdtechnology.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-22 | [`davisbrothersinc.com`](https://google.com/search?q=davisbrothersinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-22 | [`polypane.be`](https://google.com/search?q=polypane.be) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-22 | [`dennissupply.com`](https://google.com/search?q=dennissupply.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
