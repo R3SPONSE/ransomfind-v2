@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-03 | [`Hope Valley Recovery`](https://google.com/search?q=Hope+Valley+Recovery) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-11-03 | [`http://svpworldwide.com`](https://google.com/search?q=http%3A%2F%2Fsvpworldwide.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-03 | [`DieTech North America`](https://google.com/search?q=DieTech+North+America) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-03 | [`Imprimerie Peau`](https://google.com/search?q=Imprimerie+Peau) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-23 | [`Tricon Energy`](https://google.com/search?q=Tricon+Energy) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-10-23 | [`Easterseals`](https://google.com/search?q=Easterseals) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-10-23 | [`shipkar.co.in`](https://google.com/search?q=shipkar.co.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-10-22 | [`IdeaLab`](https://google.com/search?q=IdeaLab) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
