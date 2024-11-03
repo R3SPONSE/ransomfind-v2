@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-03 | [`anuenterprise.com.au`](https://google.com/search?q=anuenterprise.com.au) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-11-03 | [`inhometexas.com`](https://google.com/search?q=inhometexas.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-11-03 | [`synertrade.com\$42M\USA\3TB\100% DISCLOSED`](https://google.com/search?q=synertrade.com%5C%2442M%5CUSA%5C3TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-11-03 | [`The Law Offices of Jed Silverman`](https://google.com/search?q=The+Law+Offices+of+Jed+Silverman) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-23 | [`Gluckstein Personal Injury Lawyers`](https://google.com/search?q=Gluckstein+Personal+Injury+Lawyers) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-10-23 | [`The Povman Law Firm`](https://google.com/search?q=The+Povman+Law+Firm) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-10-23 | [`passivecomponent.com`](https://google.com/search?q=passivecomponent.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-23 | [`Goshen Central School District (gcsny.org)`](https://google.com/search?q=Goshen+Central+School+District+%28gcsny.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
