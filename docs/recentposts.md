@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-03 | [`lumiplan.com\$49.2M\France\652GB\&lt;1% DISCLOSED`](https://google.com/search?q=lumiplan.com%5C%2449.2M%5CFrance%5C652GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-11-03 | [`Hope Valley Recovery`](https://google.com/search?q=Hope+Valley+Recovery) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-11-03 | [`http://svpworldwide.com`](https://google.com/search?q=http%3A%2F%2Fsvpworldwide.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-03 | [`DieTech North America`](https://google.com/search?q=DieTech+North+America) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-23 | [`elnamagnetics.com`](https://google.com/search?q=elnamagnetics.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-23 | [`Tricon Energy`](https://google.com/search?q=Tricon+Energy) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-10-23 | [`Easterseals`](https://google.com/search?q=Easterseals) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-10-23 | [`shipkar.co.in`](https://google.com/search?q=shipkar.co.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
