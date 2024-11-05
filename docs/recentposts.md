@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-05 | [`ebrso`](https://google.com/search?q=ebrso) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-05 | [`Falco Sult`](https://google.com/search?q=Falco+Sult) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-05 | [`Burch, APC`](https://google.com/search?q=Burch%2C+APC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-05 | [`L and B Transport, L.L.C.`](https://google.com/search?q=L+and+B+Transport%2C+L.L.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-24 | [`bulloch.solutions`](https://google.com/search?q=bulloch.solutions) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-24 | [`www.kciconst.com`](https://google.com/search?q=www.kciconst.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-10-24 | [`www.resourceinternational.com`](https://google.com/search?q=www.resourceinternational.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-10-24 | [`McElroy, Quirk and Burch, APC`](https://google.com/search?q=McElroy%2C+Quirk+and+Burch%2C+APC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
