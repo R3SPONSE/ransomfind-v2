@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-05 | [`www.colonialbh.org`](https://google.com/search?q=www.colonialbh.org) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-05 | [`maxdata.com.br`](https://google.com/search?q=maxdata.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-05 | [`goodline.com.au`](https://google.com/search?q=goodline.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-05 | [`kenanasugarcompany.com`](https://google.com/search?q=kenanasugarcompany.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-24 | [`Tuggle Duggins`](https://google.com/search?q=Tuggle+Duggins) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-24 | [`Value City NJ (valuecitynj.com)`](https://google.com/search?q=Value+City+NJ+%28valuecitynj.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-24 | [`The Getz Group (getz.com.hk)`](https://google.com/search?q=The+Getz+Group+%28getz.com.hk%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-10-24 | [`carolinaarthritis.com`](https://google.com/search?q=carolinaarthritis.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
