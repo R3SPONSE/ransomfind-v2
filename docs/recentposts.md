@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-07 | [`www.msdl.ca`](https://google.com/search?q=www.msdl.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-07 | [`ajcfood.`](https://google.com/search?q=ajcfood.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-11-07 | [`New Law`](https://google.com/search?q=New+Law) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-07 | [`Postcard Mania`](https://google.com/search?q=Postcard+Mania) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Denkali`](https://google.com/search?q=Denkali) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-10-25 | [`Cucamonga Valley Water District (cvwdwater.com)`](https://google.com/search?q=Cucamonga+Valley+Water+District+%28cvwdwater.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-25 | [`hcsgcorp.com`](https://google.com/search?q=hcsgcorp.com) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
-| 2024-10-25 | [`Niko Resources Ltd.`](https://google.com/search?q=Niko+Resources+Ltd.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
