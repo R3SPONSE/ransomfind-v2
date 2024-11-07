@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-07 | [`www.rosito-bisani.com`](https://google.com/search?q=www.rosito-bisani.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-07 | [`Lexco`](https://google.com/search?q=Lexco) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-07 | [`Equator Worldwide`](https://google.com/search?q=Equator+Worldwide) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-07 | [`geminiindustriesinc.com`](https://google.com/search?q=geminiindustriesinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Ottawa Valley Handrailing Company Ltd`](https://google.com/search?q=Ottawa+Valley+Handrailing+Company+Ltd) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-10-25 | [`Evergreen Public Schools (evergreenps.org)`](https://google.com/search?q=Evergreen+Public+Schools+%28evergreenps.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-10-25 | [`Evergreen Local School District (evgvikings.org)`](https://google.com/search?q=Evergreen+Local+School+District+%28evgvikings.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-10-25 | [`SRS-Stahl GmbH`](https://google.com/search?q=SRS-Stahl+GmbH) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
