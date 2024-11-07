@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-07 | [`krigerconstruction.com`](https://google.com/search?q=krigerconstruction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-07 | [`csucontracting.com`](https://google.com/search?q=csucontracting.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-07 | [`brandenburgerplumbing.com`](https://google.com/search?q=brandenburgerplumbing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-07 | [`www.msdl.ca`](https://google.com/search?q=www.msdl.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`MESHWORKS`](https://google.com/search?q=MESHWORKS) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`ValueMax Group`](https://google.com/search?q=ValueMax+Group) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-10-25 | [`Precision Electrical Systems`](https://google.com/search?q=Precision+Electrical+Systems) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2024-10-25 | [`Denkali`](https://google.com/search?q=Denkali) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
