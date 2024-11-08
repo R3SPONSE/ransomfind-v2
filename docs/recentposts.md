@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-08 | [`Healthcare Management Systems`](https://google.com/search?q=Healthcare+Management+Systems) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-08 | [`nelconinc.biz`](https://google.com/search?q=nelconinc.biz) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-08 | [`www.fdc.ie`](https://google.com/search?q=www.fdc.ie) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-08 | [`www.cenergica.com`](https://google.com/search?q=www.cenergica.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Labib Funk Associates`](https://google.com/search?q=Labib+Funk+Associates) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-10-25 | [`Red Barrels`](https://google.com/search?q=Red+Barrels) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-10-25 | [`Research Electronics International`](https://google.com/search?q=Research+Electronics+International) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2024-10-25 | [`ExcelPlast Tunisie`](https://google.com/search?q=ExcelPlast+Tunisie) | [orca](https://ransomwatch.telemetry.ltd/#/profiles?id=orca) |
