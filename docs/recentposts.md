@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-08 | [`bartleycorp.com`](https://google.com/search?q=bartleycorp.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-08 | [`illumin8global.com`](https://google.com/search?q=illumin8global.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-08 | [`interlabel.be`](https://google.com/search?q=interlabel.be) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-08 | [`del-electric.com`](https://google.com/search?q=del-electric.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Control Panels USA`](https://google.com/search?q=Control+Panels+USA) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-10-25 | [`Spectrum Industries`](https://google.com/search?q=Spectrum+Industries) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-10-25 | [`Magenta Photo Studio`](https://google.com/search?q=Magenta+Photo+Studio) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
-| 2024-10-25 | [`Brechbuhler Scales Inc`](https://google.com/search?q=Brechbuhler+Scales+Inc) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
