@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-09 | [`Karman Inc`](https://google.com/search?q=Karman+Inc) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-09 | [`Granite School District`](https://google.com/search?q=Granite+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-11-09 | [`www.fatboysfleetandauto.com`](https://google.com/search?q=www.fatboysfleetandauto.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-09 | [`www.tetco-group.com`](https://google.com/search?q=www.tetco-group.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Rocky Mountain Gastroenterology`](https://google.com/search?q=Rocky+Mountain+Gastroenterology) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-10-25 | [`Astero`](https://google.com/search?q=Astero) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-10-25 | [`Arango Billboard`](https://google.com/search?q=Arango+Billboard) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
-| 2024-10-25 | [`Sanglier Limited`](https://google.com/search?q=Sanglier+Limited) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
