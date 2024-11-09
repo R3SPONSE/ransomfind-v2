@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-09 | [`bitquail.com`](https://google.com/search?q=bitquail.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-09 | [`ATSG, Inc`](https://google.com/search?q=ATSG%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-09 | [`Palmisano and Goodman, P.A.`](https://google.com/search?q=Palmisano+and+Goodman%2C+P.A.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-09 | [`www.sym-global.com`](https://google.com/search?q=www.sym-global.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Evlox`](https://google.com/search?q=Evlox) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-10-25 | [`ErgoFloor`](https://google.com/search?q=ErgoFloor) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-10-25 | [`Daldoss Elevetronic`](https://google.com/search?q=Daldoss+Elevetronic) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-10-25 | [`OSG Tool`](https://google.com/search?q=OSG+Tool) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
