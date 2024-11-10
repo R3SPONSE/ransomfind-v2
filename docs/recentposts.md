@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-10 | [`www.mabeglobal.com`](https://google.com/search?q=www.mabeglobal.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-10 | [`Immuno Laboratories, Inc`](https://google.com/search?q=Immuno+Laboratories%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-09 | [`bitquail.com`](https://google.com/search?q=bitquail.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-09 | [`ATSG, Inc`](https://google.com/search?q=ATSG%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Groupe Bayard`](https://google.com/search?q=Groupe+Bayard) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-10-25 | [`Futureguard`](https://google.com/search?q=Futureguard) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-10-25 | [`Evlox`](https://google.com/search?q=Evlox) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-10-25 | [`ErgoFloor`](https://google.com/search?q=ErgoFloor) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
