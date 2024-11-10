@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-10 | [`GSR Andrade Architects (gsr-andrade.com)`](https://google.com/search?q=GSR+Andrade+Architects+%28gsr-andrade.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-10 | [`Surfnet Communications`](https://google.com/search?q=Surfnet+Communications) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-11-10 | [`d****I`](https://google.com/search?q=d%2A%2A%2A%2AI) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-11-10 | [`MENZIES CNAC (Jardine Aviation Services, Agility)`](https://google.com/search?q=MENZIES+CNAC+%28Jardine+Aviation+Services%2C+Agility%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Open Range Field Services`](https://google.com/search?q=Open+Range+Field+Services) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Ferrer & Ojeda`](https://google.com/search?q=Ferrer+%26+Ojeda) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Wild Apple Graphics`](https://google.com/search?q=Wild+Apple+Graphics) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-10-25 | [`Volkswagen group`](https://google.com/search?q=Volkswagen+group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
