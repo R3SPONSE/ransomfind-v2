@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-10 | [`MENZIES CNAC (Jardine Aviation Services, Agility)`](https://google.com/search?q=MENZIES+CNAC+%28Jardine+Aviation+Services%2C+Agility%29) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-11-10 | [`Memorial Hospital &amp; Manor`](https://google.com/search?q=Memorial+Hospital+%26amp%3B+Manor) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-11-10 | [`wexfordcounty.org`](https://google.com/search?q=wexfordcounty.org) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-11-10 | [`naj.ae`](https://google.com/search?q=naj.ae) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Volkswagen group`](https://google.com/search?q=Volkswagen+group) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-10-25 | [`Stone Future inc`](https://google.com/search?q=Stone+Future+inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2024-10-25 | [`SOFPO (Exideuil)`](https://google.com/search?q=SOFPO+%28Exideuil%29) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2024-10-25 | [`SCHUMAG AKTIENGESELLSCHAFT`](https://google.com/search?q=SCHUMAG+AKTIENGESELLSCHAFT) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
