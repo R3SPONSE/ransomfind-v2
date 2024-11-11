@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-11 | [`https://www.maxxis.com/`](https://google.com/search?q=https%3A%2F%2Fwww.maxxis.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-11 | [`Dietzgen Corporation`](https://google.com/search?q=Dietzgen+Corporation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-11 | [`https://dezinecorp.com`](https://google.com/search?q=https%3A%2F%2Fdezinecorp.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-11 | [`Amourgis & Associates`](https://google.com/search?q=Amourgis+%26+Associates) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Costa Del Sol Hotels`](https://google.com/search?q=Costa+Del+Sol+Hotels) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`The Plastic Bag`](https://google.com/search?q=The+Plastic+Bag) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Elevator One`](https://google.com/search?q=Elevator+One) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
-| 2024-10-25 | [`March Elevator`](https://google.com/search?q=March+Elevator) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
