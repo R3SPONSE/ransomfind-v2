@@ -69133,5 +69133,10 @@
         "post_title": "Banco Sucredito Regional S.A.U.",
         "group_name": "hunters",
         "discovered": "2024-11-11 00:32:59.677783"
+    },
+    {
+        "post_title": "Cape Cod Regional Technical High School (capetech.us)",
+        "group_name": "FOG",
+        "discovered": "2024-11-11 03:10:30.752344"
     }
 ]

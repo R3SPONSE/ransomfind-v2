@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-11 | [`Cape Cod Regional Technical High School (capetech.us)`](https://google.com/search?q=Cape+Cod+Regional+Technical+High+School+%28capetech.us%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-11 | [`Banco Sucredito Regional S.A.U.`](https://google.com/search?q=Banco+Sucredito+Regional+S.A.U.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-10 | [`GSR Andrade Architects (gsr-andrade.com)`](https://google.com/search?q=GSR+Andrade+Architects+%28gsr-andrade.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-10 | [`Surfnet Communications`](https://google.com/search?q=Surfnet+Communications) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Pheim Unit Trusts Berhad`](https://google.com/search?q=Pheim+Unit+Trusts+Berhad) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Zierick Manufacturing Corporation`](https://google.com/search?q=Zierick+Manufacturing+Corporation) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Open Range Field Services`](https://google.com/search?q=Open+Range+Field+Services) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
-| 2024-10-25 | [`Ferrer & Ojeda`](https://google.com/search?q=Ferrer+%26+Ojeda) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
