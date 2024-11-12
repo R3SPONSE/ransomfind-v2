@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-12 | [`nynewspapers.com`](https://google.com/search?q=nynewspapers.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-12 | [`comarchs.com`](https://google.com/search?q=comarchs.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-11 | [`potteau.be`](https://google.com/search?q=potteau.be) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-11 | [`https://www.supplytechnologies.com/`](https://google.com/search?q=https%3A%2F%2Fwww.supplytechnologies.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Curtidos Barbero`](https://google.com/search?q=Curtidos+Barbero) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`EasyPay`](https://google.com/search?q=EasyPay) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Jumbo Electronics Qatar`](https://google.com/search?q=Jumbo+Electronics+Qatar) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
-| 2024-10-25 | [`Navarra & Marzano`](https://google.com/search?q=Navarra+%26+Marzano) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
