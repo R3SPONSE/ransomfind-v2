@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-12 | [`WimCoCorp`](https://google.com/search?q=WimCoCorp) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-12 | [`Siltech (siltechcorp.local)`](https://google.com/search?q=Siltech+%28siltechcorp.local%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-12 | [`TaxPros of Clermont`](https://google.com/search?q=TaxPros+of+Clermont) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-12 | [`nynewspapers.com`](https://google.com/search?q=nynewspapers.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Advanced Accounting & Business Advisory`](https://google.com/search?q=Advanced+Accounting+%26+Business+Advisory) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Road Distribution Services`](https://google.com/search?q=Road+Distribution+Services) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
 | 2024-10-25 | [`Lácteos Lorán`](https://google.com/search?q=L%C3%A1cteos+Lor%C3%A1n) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
-| 2024-10-25 | [`Curtidos Barbero`](https://google.com/search?q=Curtidos+Barbero) | [sarcoma](https://ransomwatch.telemetry.ltd/#/profiles?id=sarcoma) |
