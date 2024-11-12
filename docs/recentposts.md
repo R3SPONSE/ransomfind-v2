@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-12 | [`NEBRASKALAND`](https://google.com/search?q=NEBRASKALAND) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-12 | [`https://steppingstonesd.org/`](https://google.com/search?q=https%3A%2F%2Fsteppingstonesd.org%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-12 | [`https://jst.es/`](https://google.com/search?q=https%3A%2F%2Fjst.es%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-12 | [`www.guymontigers.com`](https://google.com/search?q=www.guymontigers.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-25 | [`Drug and Alcohol Treatment Service`](https://google.com/search?q=Drug+and+Alcohol+Treatment+Service) | [interlock](https://ransomwatch.telemetry.ltd/#/profiles?id=interlock) |
 | 2024-10-25 | [`Smeg`](https://google.com/search?q=Smeg) | [interlock](https://ransomwatch.telemetry.ltd/#/profiles?id=interlock) |
 | 2024-10-25 | [`Wayne County`](https://google.com/search?q=Wayne+County) | [interlock](https://ransomwatch.telemetry.ltd/#/profiles?id=interlock) |
-| 2024-10-25 | [`Cathexis Holdings LP`](https://google.com/search?q=Cathexis+Holdings+LP) | [interlock](https://ransomwatch.telemetry.ltd/#/profiles?id=interlock) |
