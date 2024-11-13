@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-13 | [`Hellmich`](https://google.com/search?q=Hellmich) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-11-13 | [`Schmack`](https://google.com/search?q=Schmack) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-13 | [`midstatesindustrial.com`](https://google.com/search?q=midstatesindustrial.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-11-13 | [`Plowman Craven`](https://google.com/search?q=Plowman+Craven) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-26 | [`Positive Business Solutions`](https://google.com/search?q=Positive+Business+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-26 | [`C & C Industries`](https://google.com/search?q=C+%26+C+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-26 | [`PT Transportasi Gas Indonesia`](https://google.com/search?q=PT+Transportasi+Gas+Indonesia) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
-| 2024-10-26 | [`The Eye Clinic Surgicenter`](https://google.com/search?q=The+Eye+Clinic+Surgicenter) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
