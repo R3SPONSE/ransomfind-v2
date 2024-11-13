@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-13 | [`Artistic Family Dental`](https://google.com/search?q=Artistic+Family+Dental) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-13 | [`Medigroup.ca`](https://google.com/search?q=Medigroup.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-12 | [`Orange County Pathology Medical Group`](https://google.com/search?q=Orange+County+Pathology+Medical+Group) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-12 | [`SK Gas`](https://google.com/search?q=SK+Gas) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-26 | [`Premier Work Support`](https://google.com/search?q=Premier+Work+Support) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-10-26 | [`Digital Engineering`](https://google.com/search?q=Digital+Engineering) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-10-26 | [`TR****GB`](https://google.com/search?q=TR%2A%2A%2A%2AGB) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-10-25 | [`www.olanocorp.com`](https://google.com/search?q=www.olanocorp.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
