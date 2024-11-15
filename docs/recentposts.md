@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-15 | [`Bio-Clima Service Srl`](https://google.com/search?q=Bio-Clima+Service+Srl) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-15 | [`A Sensitive Touch Home Health;Alphastar Home Health Care;Heart of Texas Home Healthcare Se`](https://google.com/search?q=A+Sensitive+Touch+Home+Health%3BAlphastar+Home+Health+Care%3BHeart+of+Texas+Home+Healthcare+Se) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-15 | [`www.gob.mx`](https://google.com/search?q=www.gob.mx) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-15 | [`A&O IT Group`](https://google.com/search?q=A%26O+IT+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-29 | [`Weber Packaging Solutions`](https://google.com/search?q=Weber+Packaging+Solutions) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-29 | [`Distribution Alternatives, Inc.`](https://google.com/search?q=Distribution+Alternatives%2C+Inc.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-10-29 | [`CELO`](https://google.com/search?q=CELO) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-10-29 | [`[DISCLOSED]Fursan Travel`](https://google.com/search?q=%5BDISCLOSED%5DFursan+Travel) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
