@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-16 | [`https://www.billyheromans.com/`](https://google.com/search?q=https%3A%2F%2Fwww.billyheromans.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-15 | [`https://www.kenmore.com/`](https://google.com/search?q=https%3A%2F%2Fwww.kenmore.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-15 | [`Total Patient Care LLC`](https://google.com/search?q=Total+Patient+Care+LLC) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-15 | [`Bio-Clima Service Srl`](https://google.com/search?q=Bio-Clima+Service+Srl) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-30 | [`Astac`](https://google.com/search?q=Astac) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-30 | [`CLAS Information Services`](https://google.com/search?q=CLAS+Information+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-10-30 | [`The Rosen Law Firm, P.A.`](https://google.com/search?q=The+Rosen+Law+Firm%2C+P.A.) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-10-29 | [`Weber Packaging Solutions`](https://google.com/search?q=Weber+Packaging+Solutions) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
