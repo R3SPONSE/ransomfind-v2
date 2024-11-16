@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-16 | [`https://klarenbeek-transport.nl/`](https://google.com/search?q=https%3A%2F%2Fklarenbeek-transport.nl%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-16 | [`https://www.surgicalassociates.com/`](https://google.com/search?q=https%3A%2F%2Fwww.surgicalassociates.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-16 | [`https://www.billyheromans.com/`](https://google.com/search?q=https%3A%2F%2Fwww.billyheromans.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-15 | [`https://www.kenmore.com/`](https://google.com/search?q=https%3A%2F%2Fwww.kenmore.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-30 | [`Dirksen Screw Products`](https://google.com/search?q=Dirksen+Screw+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-30 | [`Dana Safety Supply`](https://google.com/search?q=Dana+Safety+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-30 | [`Astac`](https://google.com/search?q=Astac) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-30 | [`CLAS Information Services`](https://google.com/search?q=CLAS+Information+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
