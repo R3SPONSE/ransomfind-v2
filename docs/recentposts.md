@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-17 | [`The Egyptian Tax Authority (ETA)`](https://google.com/search?q=The+Egyptian+Tax+Authority+%28ETA%29) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2024-11-16 | [`Grupo_Trisan`](https://google.com/search?q=Grupo_Trisan) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-16 | [`Vector Transport (vectortransport.com)`](https://google.com/search?q=Vector+Transport+%28vectortransport.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-16 | [`https://www.brandywinecoachworks.com/`](https://google.com/search?q=https%3A%2F%2Fwww.brandywinecoachworks.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-31 | [`Sunrise Express`](https://google.com/search?q=Sunrise+Express) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-31 | [`Pureflow Airdog`](https://google.com/search?q=Pureflow+Airdog) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-10-31 | [`Pelsue`](https://google.com/search?q=Pelsue) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-10-31 | [`Paul White Company`](https://google.com/search?q=Paul+White+Company) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
