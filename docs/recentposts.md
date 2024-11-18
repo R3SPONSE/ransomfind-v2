@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-18 | [`lsst.ac\$72.2M\United Kingdom\845GB\100% DISCLOSED`](https://google.com/search?q=lsst.ac%5C%2472.2M%5CUnited+Kingdom%5C845GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-11-18 | [`lumiplan.com\$49.2M\France\652GB\100% DISCLOSED`](https://google.com/search?q=lumiplan.com%5C%2449.2M%5CFrance%5C652GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-11-18 | [`Mantinga`](https://google.com/search?q=Mantinga) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-17 | [`Ge****og`](https://google.com/search?q=Ge%2A%2A%2A%2Aog) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-10-31 | [`caillau.com.br`](https://google.com/search?q=caillau.com.br) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-10-31 | [`sandray.com`](https://google.com/search?q=sandray.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-10-31 | [`mpspromotions.com`](https://google.com/search?q=mpspromotions.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-10-31 | [`freedomhomecare.net`](https://google.com/search?q=freedomhomecare.net) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
