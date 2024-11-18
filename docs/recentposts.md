@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-18 | [`waive.com.au`](https://google.com/search?q=waive.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-18 | [`Dorner Law & Title Services`](https://google.com/search?q=Dorner+Law+%26+Title+Services) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-18 | [`bcllegal.com\$16.7M\United Kingdom\829GB\100% DISCLOSED`](https://google.com/search?q=bcllegal.com%5C%2416.7M%5CUnited+Kingdom%5C829GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-11-18 | [`hacla.org\$1.9B\USA\861GB\100% DISCLOSED`](https://google.com/search?q=hacla.org%5C%241.9B%5CUSA%5C861GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-01 | [`Country Inn &#038; Suites by Radisson Data Leak`](https://google.com/search?q=Country+Inn+%26%23038%3B+Suites+by+Radisson+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-01 | [`Broward Realty Corp Data Leak`](https://google.com/search?q=Broward+Realty+Corp+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-01 | [`Aspen Healthcare Data Leak`](https://google.com/search?q=Aspen+Healthcare+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-11-01 | [`Arctrade`](https://google.com/search?q=Arctrade) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
