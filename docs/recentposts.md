@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-19 | [`allconstructiongroupwv.com`](https://google.com/search?q=allconstructiongroupwv.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-19 | [`Jornstax.com`](https://google.com/search?q=Jornstax.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-19 | [`www.depewgillen.com`](https://google.com/search?q=www.depewgillen.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-19 | [`https://www.eastgateauto.com/`](https://google.com/search?q=https%3A%2F%2Fwww.eastgateauto.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-01 | [`mirandaproduce.com.ve`](https://google.com/search?q=mirandaproduce.com.ve) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-11-01 | [`patria.hu`](https://google.com/search?q=patria.hu) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-01 | [`Sabesp`](https://google.com/search?q=Sabesp) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-11-01 | [`MCNA Dental Data Leak`](https://google.com/search?q=MCNA+Dental+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
