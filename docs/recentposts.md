@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-19 | [`IndicaOnline`](https://google.com/search?q=IndicaOnline) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-19 | [`RAUCH Streuer – Kompetenz in Entwicklung &amp; Herstellung`](https://google.com/search?q=RAUCH+Streuer+%E2%80%93+Kompetenz+in+Entwicklung+%26amp%3B+Herstellung) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-11-19 | [`REMBE GmbH Safety + Control`](https://google.com/search?q=REMBE+GmbH+Safety+%2B+Control) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-11-19 | [`CULTURE-BUILDING EXPERTS`](https://google.com/search?q=CULTURE-BUILDING+EXPERTS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-02 | [`AIMS, Inc. - Fuel Business Accounting Software, Jobber Software - Wholesale Petroleum Acco`](https://google.com/search?q=AIMS%2C+Inc.+-+Fuel+Business+Accounting+Software%2C+Jobber+Software+-+Wholesale+Petroleum+Acco) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-02 | [`Freyberg Petroleum`](https://google.com/search?q=Freyberg+Petroleum) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-01 | [`aziz oil`](https://google.com/search?q=aziz+oil) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-11-01 | [`PetroSouth`](https://google.com/search?q=PetroSouth) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
