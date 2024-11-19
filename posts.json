@@ -69588,5 +69588,10 @@
         "post_title": "Pacific Pulmonary Medical Group Data Leak",
         "group_name": "everest",
         "discovered": "2024-11-19 18:40:26.956480"
+    },
+    {
+        "post_title": "KMC Global",
+        "group_name": "blackbasta",
+        "discovered": "2024-11-19 20:38:08.480323"
     }
 ]
