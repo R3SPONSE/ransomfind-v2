@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-20 | [`Birdair`](https://google.com/search?q=Birdair) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-20 | [`Anderson Miller LTD`](https://google.com/search?q=Anderson+Miller+LTD) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-11-20 | [`Premier Tax Services`](https://google.com/search?q=Premier+Tax+Services) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-11-20 | [`KVF`](https://google.com/search?q=KVF) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-03 | [`lumiplan.com\$49.2M\France\652GB\&lt;1% DISCLOSED`](https://google.com/search?q=lumiplan.com%5C%2449.2M%5CFrance%5C652GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-11-03 | [`Hope Valley Recovery`](https://google.com/search?q=Hope+Valley+Recovery) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-11-03 | [`http://svpworldwide.com`](https://google.com/search?q=http%3A%2F%2Fsvpworldwide.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-11-03 | [`DieTech North America`](https://google.com/search?q=DieTech+North+America) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
