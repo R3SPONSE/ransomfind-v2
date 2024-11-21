@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-21 | [`Henderson Stamping & Production`](https://google.com/search?q=Henderson+Stamping+%26+Production) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-21 | [`Diamond Brand Gear`](https://google.com/search?q=Diamond+Brand+Gear) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-21 | [`CK Power Public Manufacturing`](https://google.com/search?q=CK+Power+Public+Manufacturing) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-21 | [`Bishop Ireton High School`](https://google.com/search?q=Bishop+Ireton+High+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-03 | [`Cerp Bretagne Nord`](https://google.com/search?q=Cerp+Bretagne+Nord) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-03 | [`anuenterprise.com.au`](https://google.com/search?q=anuenterprise.com.au) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-11-03 | [`inhometexas.com`](https://google.com/search?q=inhometexas.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-11-03 | [`synertrade.com\$42M\USA\3TB\100% DISCLOSED`](https://google.com/search?q=synertrade.com%5C%2442M%5CUSA%5C3TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
