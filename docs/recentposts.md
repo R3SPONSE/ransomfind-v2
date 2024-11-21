@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-21 | [`CK Power Public Manufacturing`](https://google.com/search?q=CK+Power+Public+Manufacturing) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-21 | [`Bishop Ireton High School`](https://google.com/search?q=Bishop+Ireton+High+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-11-21 | [`Dairy Farmers of Canada`](https://google.com/search?q=Dairy+Farmers+of+Canada) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-21 | [`CMD`](https://google.com/search?q=CMD) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-03 | [`inhometexas.com`](https://google.com/search?q=inhometexas.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-11-03 | [`synertrade.com\$42M\USA\3TB\100% DISCLOSED`](https://google.com/search?q=synertrade.com%5C%2442M%5CUSA%5C3TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-11-03 | [`The Law Offices of Jed Silverman`](https://google.com/search?q=The+Law+Offices+of+Jed+Silverman) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-11-03 | [`lsst.ac\$72.2M\United Kingdom\845GB\&lt;1% DISCLOSED`](https://google.com/search?q=lsst.ac%5C%2472.2M%5CUnited+Kingdom%5C845GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
