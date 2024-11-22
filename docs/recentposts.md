@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-22 | [`www.damcapital.in`](https://google.com/search?q=www.damcapital.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-22 | [`curenta.com`](https://google.com/search?q=curenta.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-22 | [`San Francisco Ballet`](https://google.com/search?q=San+Francisco+Ballet) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-22 | [`Performance Health & Fitness`](https://google.com/search?q=Performance+Health+%26+Fitness) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-04 | [`AXIOM`](https://google.com/search?q=AXIOM) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-11-04 | [`www.schweiker.de`](https://google.com/search?q=www.schweiker.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-04 | [`www.drbutlerandassociates.com`](https://google.com/search?q=www.drbutlerandassociates.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-04 | [`www.mssupply.com`](https://google.com/search?q=www.mssupply.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
