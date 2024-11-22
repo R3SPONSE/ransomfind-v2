@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-22 | [`Miller & Smith`](https://google.com/search?q=Miller+%26+Smith) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-21 | [`LenelS2`](https://google.com/search?q=LenelS2) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-21 | [`IVC Technologies`](https://google.com/search?q=IVC+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-21 | [`colef`](https://google.com/search?q=colef) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-04 | [`Air Specialists Heating & Air Conditioning`](https://google.com/search?q=Air+Specialists+Heating+%26+Air+Conditioning) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-04 | [`caseconstruction.com`](https://google.com/search?q=caseconstruction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-04 | [`lambertstonecommercial.com`](https://google.com/search?q=lambertstonecommercial.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-04 | [`lighthouseelectric.com`](https://google.com/search?q=lighthouseelectric.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
