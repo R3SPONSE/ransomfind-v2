@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-22 | [`scalar.co.il`](https://google.com/search?q=scalar.co.il) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-22 | [`www.cobeldarou.com`](https://google.com/search?q=www.cobeldarou.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-22 | [`blr.com`](https://google.com/search?q=blr.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-22 | [`madison-home.com`](https://google.com/search?q=madison-home.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-05 | [`maxdata.com.br`](https://google.com/search?q=maxdata.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-05 | [`goodline.com.au`](https://google.com/search?q=goodline.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-05 | [`kenanasugarcompany.com`](https://google.com/search?q=kenanasugarcompany.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-05 | [`canstarrestorations.com`](https://google.com/search?q=canstarrestorations.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
