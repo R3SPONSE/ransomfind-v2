@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-24 | [`jergenspiping.com`](https://google.com/search?q=jergenspiping.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-24 | [`wulffco.com`](https://google.com/search?q=wulffco.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-24 | [`interborosd.org`](https://google.com/search?q=interborosd.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-24 | [`Thebike.com`](https://google.com/search?q=Thebike.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-06 | [`Lincoln University`](https://google.com/search?q=Lincoln+University) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-06 | [`redphoenixconstruction.com`](https://google.com/search?q=redphoenixconstruction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-06 | [`apoyoconsultoria.com`](https://google.com/search?q=apoyoconsultoria.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-06 | [`nwhealthporter.com`](https://google.com/search?q=nwhealthporter.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
