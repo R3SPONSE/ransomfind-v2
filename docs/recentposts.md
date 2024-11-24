@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-24 | [`MGEMAL`](https://google.com/search?q=MGEMAL) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-11-24 | [`STIIIZY`](https://google.com/search?q=STIIIZY) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-24 | [`Concord Orthopaedics`](https://google.com/search?q=Concord+Orthopaedics) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-11-24 | [`Symantric IT`](https://google.com/search?q=Symantric+IT) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-07 | [`www.msdl.ca`](https://google.com/search?q=www.msdl.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-07 | [`ajcfood.`](https://google.com/search?q=ajcfood.) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-11-07 | [`New Law`](https://google.com/search?q=New+Law) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-11-07 | [`Postcard Mania`](https://google.com/search?q=Postcard+Mania) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
