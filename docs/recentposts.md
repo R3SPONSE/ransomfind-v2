@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-25 | [`Trust Seeds`](https://google.com/search?q=Trust+Seeds) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-11-25 | [`HM Environmental Services`](https://google.com/search?q=HM+Environmental+Services) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-11-25 | [`Ace Laboratories Limited`](https://google.com/search?q=Ace+Laboratories+Limited) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-25 | [`Co****nt`](https://google.com/search?q=Co%2A%2A%2A%2Ant) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-07 | [`Equator Worldwide`](https://google.com/search?q=Equator+Worldwide) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-07 | [`geminiindustriesinc.com`](https://google.com/search?q=geminiindustriesinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-07 | [`krigerconstruction.com`](https://google.com/search?q=krigerconstruction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-07 | [`csucontracting.com`](https://google.com/search?q=csucontracting.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
