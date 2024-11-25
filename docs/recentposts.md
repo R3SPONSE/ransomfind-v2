@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-25 | [`Orshan, Spann & Fernandez-Mesa`](https://google.com/search?q=Orshan%2C+Spann+%26+Fernandez-Mesa) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-25 | [`GuangDong South Land pharmaceutical`](https://google.com/search?q=GuangDong+South+Land+pharmaceutical) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-11-25 | [`JN attorney`](https://google.com/search?q=JN+attorney) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-25 | [`Trust Seeds`](https://google.com/search?q=Trust+Seeds) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-07 | [`www.bluco.com`](https://google.com/search?q=www.bluco.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-07 | [`www.rosito-bisani.com`](https://google.com/search?q=www.rosito-bisani.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-07 | [`Lexco`](https://google.com/search?q=Lexco) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
-| 2024-11-07 | [`Equator Worldwide`](https://google.com/search?q=Equator+Worldwide) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
