@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-26 | [`SILKNET COMPANY`](https://google.com/search?q=SILKNET+COMPANY) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2024-11-26 | [`isd109.org`](https://google.com/search?q=isd109.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-26 | [`parkleigh.com`](https://google.com/search?q=parkleigh.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-26 | [`reliv.la`](https://google.com/search?q=reliv.la) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-09 | [`www.tetco-group.com`](https://google.com/search?q=www.tetco-group.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-09 | [`www.tigre.gob.ar`](https://google.com/search?q=www.tigre.gob.ar) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-09 | [`www.usm.cl`](https://google.com/search?q=www.usm.cl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-09 | [`www.ua4rent.com`](https://google.com/search?q=www.ua4rent.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
