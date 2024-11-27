@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-27 | [`Barneek Safety Consultancies`](https://google.com/search?q=Barneek+Safety+Consultancies) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-11-27 | [`CNHW Landscape Design, Ltd`](https://google.com/search?q=CNHW+Landscape+Design%2C+Ltd) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-11-27 | [`www.itlindia.com`](https://google.com/search?q=www.itlindia.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-26 | [`coppelltx.gov`](https://google.com/search?q=coppelltx.gov) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-09 | [`Finger Beton Unternehmensgruppe`](https://google.com/search?q=Finger+Beton+Unternehmensgruppe) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-09 | [`Karman Inc`](https://google.com/search?q=Karman+Inc) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-09 | [`Granite School District`](https://google.com/search?q=Granite+School+District) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-11-09 | [`www.fatboysfleetandauto.com`](https://google.com/search?q=www.fatboysfleetandauto.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
