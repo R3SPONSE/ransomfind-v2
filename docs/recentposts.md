@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-28 | [`Ventana Micro Systems`](https://google.com/search?q=Ventana+Micro+Systems) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-28 | [`Lu****ng`](https://google.com/search?q=Lu%2A%2A%2A%2Ang) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-27 | [`Me****or`](https://google.com/search?q=Me%2A%2A%2A%2Aor) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-27 | [`habeshacement.com`](https://google.com/search?q=habeshacement.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-10 | [`wexfordcounty.org`](https://google.com/search?q=wexfordcounty.org) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-11-10 | [`naj.ae`](https://google.com/search?q=naj.ae) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-11-10 | [`OSG.COM`](https://google.com/search?q=OSG.COM) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-10 | [`noblehouse.com.ph`](https://google.com/search?q=noblehouse.com.ph) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
