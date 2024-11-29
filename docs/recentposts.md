@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-29 | [`Horsa`](https://google.com/search?q=Horsa) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-29 | [`Weld Racing (weldracing.com)`](https://google.com/search?q=Weld+Racing+%28weldracing.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-29 | [`ppotts.com`](https://google.com/search?q=ppotts.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-29 | [`Namforce Life Insurance`](https://google.com/search?q=Namforce+Life+Insurance) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-12 | [`comarchs.com`](https://google.com/search?q=comarchs.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-11 | [`potteau.be`](https://google.com/search?q=potteau.be) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-11 | [`https://www.supplytechnologies.com/`](https://google.com/search?q=https%3A%2F%2Fwww.supplytechnologies.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-11-11 | [`https://www.maxxis.com/`](https://google.com/search?q=https%3A%2F%2Fwww.maxxis.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
