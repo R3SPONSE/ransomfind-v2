@@ -70183,5 +70183,10 @@
         "post_title": "Chanas Assurances S.A. (chanasassurances.com)",
         "group_name": "FOG",
         "discovered": "2024-11-29 16:34:29.943321"
+    },
+    {
+        "post_title": "www.aras-group.ae",
+        "group_name": "ransomhub",
+        "discovered": "2024-11-29 18:35:45.622677"
     }
 ]
