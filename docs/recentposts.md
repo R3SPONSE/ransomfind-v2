@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-29 | [`osmedica.com.ar`](https://google.com/search?q=osmedica.com.ar) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-29 | [`Delmar International`](https://google.com/search?q=Delmar+International) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-11-28 | [`https://jtekt-na.com/`](https://google.com/search?q=https%3A%2F%2Fjtekt-na.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-28 | [`wheelerassoc.com`](https://google.com/search?q=wheelerassoc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-11 | [`Amourgis & Associates`](https://google.com/search?q=Amourgis+%26+Associates) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-11 | [`tolbertlegal.com`](https://google.com/search?q=tolbertlegal.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-11 | [`IM Cannabis Hacked`](https://google.com/search?q=IM+Cannabis+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
-| 2024-11-11 | [`Elad municipality Hacked`](https://google.com/search?q=Elad+municipality+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
