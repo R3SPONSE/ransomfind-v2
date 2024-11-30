@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-11-30 | [`Specialty Bolt And Screw`](https://google.com/search?q=Specialty+Bolt+And+Screw) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-29 | [`Bendheim`](https://google.com/search?q=Bendheim) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-29 | [`ALLTUB Group (alltub.com)`](https://google.com/search?q=ALLTUB+Group+%28alltub.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-29 | [`www.aras-group.ae`](https://google.com/search?q=www.aras-group.ae) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-12 | [`https://jarrellinc.com/`](https://google.com/search?q=https%3A%2F%2Fjarrellinc.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-12 | [`WimCoCorp`](https://google.com/search?q=WimCoCorp) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-12 | [`Siltech (siltechcorp.local)`](https://google.com/search?q=Siltech+%28siltechcorp.local%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2024-11-12 | [`TaxPros of Clermont`](https://google.com/search?q=TaxPros+of+Clermont) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
