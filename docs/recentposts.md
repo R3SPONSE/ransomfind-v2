@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-01 | [`www.agenciatributaria.es`](https://google.com/search?q=www.agenciatributaria.es) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-11-30 | [`Agencia Tributaria AEAT`](https://google.com/search?q=Agencia+Tributaria+AEAT) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-11-30 | [`Everything Breaks`](https://google.com/search?q=Everything+Breaks) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-30 | [`Keable & Brown`](https://google.com/search?q=Keable+%26+Brown) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-13 | [`Plowman Craven`](https://google.com/search?q=Plowman+Craven) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-13 | [`American Associated Pharmacies`](https://google.com/search?q=American+Associated+Pharmacies) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-11-13 | [`Value Dental Center`](https://google.com/search?q=Value+Dental+Center) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-11-13 | [`Asaro Dental Aesthetics`](https://google.com/search?q=Asaro+Dental+Aesthetics) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
