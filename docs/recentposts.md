@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-02 | [`Mmaynewagemicro`](https://google.com/search?q=Mmaynewagemicro) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-02 | [`everde.com`](https://google.com/search?q=everde.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-02 | [`NT****st`](https://google.com/search?q=NT%2A%2A%2A%2Ast) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-02 | [`qualitybillingservice.com`](https://google.com/search?q=qualitybillingservice.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-14 | [`Interoute agency`](https://google.com/search?q=Interoute+agency) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-14 | [`DSZ`](https://google.com/search?q=DSZ) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-14 | [`Future Metals`](https://google.com/search?q=Future+Metals) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2024-11-13 | [`Sercomm`](https://google.com/search?q=Sercomm) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
