@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-03 | [`Conteg`](https://google.com/search?q=Conteg) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-03 | [`Goodwill North Central Texas`](https://google.com/search?q=Goodwill+North+Central+Texas) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-12-03 | [`Harel Insurance Hacked ( Shirbit Server )`](https://google.com/search?q=Harel+Insurance+Hacked+%28+Shirbit+Server+%29) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-03 | [`New Age Micro`](https://google.com/search?q=New+Age+Micro) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-15 | [`Herron Todd White`](https://google.com/search?q=Herron+Todd+White) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-15 | [`J.S.T. Espana`](https://google.com/search?q=J.S.T.+Espana) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-14 | [`Karl Malone Toyota`](https://google.com/search?q=Karl+Malone+Toyota) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
-| 2024-11-14 | [`OMara Ag Equipment`](https://google.com/search?q=OMara+Ag+Equipment) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
