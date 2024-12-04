@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-04 | [`Inland Tarp & Liner`](https://google.com/search?q=Inland+Tarp+%26+Liner) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-03 | [`InterCon Construction`](https://google.com/search?q=InterCon+Construction) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-03 | [`Communicare Inc.(US)`](https://google.com/search?q=Communicare+Inc.%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2024-12-03 | [`SGS Co (US)`](https://google.com/search?q=SGS+Co+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-15 | [`https://www.marysville.k12.oh.us`](https://google.com/search?q=https%3A%2F%2Fwww.marysville.k12.oh.us) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-11-15 | [`Pine Belt Cars`](https://google.com/search?q=Pine+Belt+Cars) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
 | 2024-11-15 | [`DieTech North America`](https://google.com/search?q=DieTech+North+America) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
-| 2024-11-15 | [`Cottles Asphalt Maintenance Inc`](https://google.com/search?q=Cottles+Asphalt+Maintenance+Inc) | [meow](https://ransomwatch.telemetry.ltd/#/profiles?id=meow) |
