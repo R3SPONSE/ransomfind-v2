@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-05 | [`Westbank Corp`](https://google.com/search?q=Westbank+Corp) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-04 | [`BT Group plc`](https://google.com/search?q=BT+Group+plc) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-04 | [`BEKO TECHNOLOGIES GMBH`](https://google.com/search?q=BEKO+TECHNOLOGIES+GMBH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-04 | [`The Snatt Omlog Companies`](https://google.com/search?q=The+Snatt+Omlog+Companies) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-16 | [`jhs.co.uk`](https://google.com/search?q=jhs.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-16 | [`potteau.com`](https://google.com/search?q=potteau.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-16 | [`https://klarenbeek-transport.nl/`](https://google.com/search?q=https%3A%2F%2Fklarenbeek-transport.nl%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-11-16 | [`https://www.surgicalassociates.com/`](https://google.com/search?q=https%3A%2F%2Fwww.surgicalassociates.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
