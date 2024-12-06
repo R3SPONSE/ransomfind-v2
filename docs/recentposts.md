@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-06 | [`Aptus Value Housing Finance India Ltd`](https://google.com/search?q=Aptus+Value+Housing+Finance+India+Ltd) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-12-06 | [`Standard Calibrations`](https://google.com/search?q=Standard+Calibrations) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-06 | [`NatAlliance Securities`](https://google.com/search?q=NatAlliance+Securities) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-06 | [`Max Trans`](https://google.com/search?q=Max+Trans) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-18 | [`lumiplan.com\$49.2M\France\652GB\100% DISCLOSED`](https://google.com/search?q=lumiplan.com%5C%2449.2M%5CFrance%5C652GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-11-18 | [`Mantinga`](https://google.com/search?q=Mantinga) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-17 | [`Ge****og`](https://google.com/search?q=Ge%2A%2A%2A%2Aog) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-11-17 | [`Gu****me`](https://google.com/search?q=Gu%2A%2A%2A%2Ame) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
