@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-07 | [`www.wsgcpa.com`](https://google.com/search?q=www.wsgcpa.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-07 | [`CO-VER Power Technology SpA`](https://google.com/search?q=CO-VER+Power+Technology+SpA) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-07 | [`www.sefiso-atlantique.fr`](https://google.com/search?q=www.sefiso-atlantique.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-06 | [`troxlerlabs.com`](https://google.com/search?q=troxlerlabs.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-19 | [`sealevelinc.com`](https://google.com/search?q=sealevelinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-19 | [`allconstructiongroupwv.com`](https://google.com/search?q=allconstructiongroupwv.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-19 | [`Jornstax.com`](https://google.com/search?q=Jornstax.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-19 | [`www.depewgillen.com`](https://google.com/search?q=www.depewgillen.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
