@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-09 | [`alb`](https://google.com/search?q=alb) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-12-09 | [`mpdory.com`](https://google.com/search?q=mpdory.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-09 | [`islandphoto.com`](https://google.com/search?q=islandphoto.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-09 | [`http://copresi.es`](https://google.com/search?q=http%3A%2F%2Fcopresi.es) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-20 | [`KVF`](https://google.com/search?q=KVF) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-11-20 | [`Amherstburg Family Health`](https://google.com/search?q=Amherstburg+Family+Health) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-20 | [`Southern Oregon Veterinary Specialty Center`](https://google.com/search?q=Southern+Oregon+Veterinary+Specialty+Center) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-11-20 | [`Oxford Auto Insurance`](https://google.com/search?q=Oxford+Auto+Insurance) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
