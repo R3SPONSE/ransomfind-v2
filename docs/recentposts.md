@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-09 | [`inia.es`](https://google.com/search?q=inia.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-08 | [`SRP Federal Credit Union`](https://google.com/search?q=SRP+Federal+Credit+Union) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-08 | [`Textiles Coated International`](https://google.com/search?q=Textiles+Coated+International) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-07 | [`Dorner (dorner-gmbh.de)`](https://google.com/search?q=Dorner+%28dorner-gmbh.de%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-20 | [`Instinct Pet Food`](https://google.com/search?q=Instinct+Pet+Food) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-11-20 | [`Eaton Metal Products Company`](https://google.com/search?q=Eaton+Metal+Products+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-11-20 | [`Wachter`](https://google.com/search?q=Wachter) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-11-20 | [`Jonti-Craft`](https://google.com/search?q=Jonti-Craft) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
