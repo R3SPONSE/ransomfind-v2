@@ -70628,5 +70628,10 @@
         "post_title": "alb",
         "group_name": "lockbit3",
         "discovered": "2024-12-09 18:33:52.543801"
+    },
+    {
+        "post_title": "www.lasalleinc.com",
+        "group_name": "ransomhub",
+        "discovered": "2024-12-09 20:38:08.040217"
     }
 ]
