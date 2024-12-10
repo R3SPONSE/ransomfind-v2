@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-10 | [`Physicians' Primary Care of Southwest Florida`](https://google.com/search?q=Physicians%27+Primary+Care+of+Southwest+Florida) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-10 | [`Equity & Advisory`](https://google.com/search?q=Equity+%26+Advisory) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-10 | [`Hosting.co.uk`](https://google.com/search?q=Hosting.co.uk) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-09 | [`nedamaritime.gr`](https://google.com/search?q=nedamaritime.gr) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-21 | [`Dairy Farmers of Canada`](https://google.com/search?q=Dairy+Farmers+of+Canada) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-21 | [`CMD`](https://google.com/search?q=CMD) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-20 | [`Birdair`](https://google.com/search?q=Birdair) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-11-20 | [`Anderson Miller LTD`](https://google.com/search?q=Anderson+Miller+LTD) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
