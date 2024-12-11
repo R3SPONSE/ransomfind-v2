@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-11 | [`Compass Communications`](https://google.com/search?q=Compass+Communications) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-11 | [`Planters Telephone Cooperative (planters.net)`](https://google.com/search?q=Planters+Telephone+Cooperative+%28planters.net%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-11 | [`Rutherford County Schools`](https://google.com/search?q=Rutherford+County+Schools) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-12-11 | [`At Interspiro`](https://google.com/search?q=At+Interspiro) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-22 | [`Vox Printing`](https://google.com/search?q=Vox+Printing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-22 | [`Miller & Smith`](https://google.com/search?q=Miller+%26+Smith) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-21 | [`LenelS2`](https://google.com/search?q=LenelS2) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-11-21 | [`IVC Technologies`](https://google.com/search?q=IVC+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
