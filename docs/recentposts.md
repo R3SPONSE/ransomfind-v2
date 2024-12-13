@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-13 | [`Maxus Group`](https://google.com/search?q=Maxus+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-13 | [`Long Beach Convention Center`](https://google.com/search?q=Long+Beach+Convention+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-13 | [`Artemis Holding`](https://google.com/search?q=Artemis+Holding) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-13 | [`Myhealthcarebilling`](https://google.com/search?q=Myhealthcarebilling) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-23 | [`thinkecs.com`](https://google.com/search?q=thinkecs.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-23 | [`smawins.net`](https://google.com/search?q=smawins.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-23 | [`chsplumbing.com`](https://google.com/search?q=chsplumbing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-23 | [`tempaircompany.com`](https://google.com/search?q=tempaircompany.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
