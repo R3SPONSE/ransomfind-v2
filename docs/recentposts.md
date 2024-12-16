@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-16 | [`Waverley Christian College (wcc.vic.edu.au)`](https://google.com/search?q=Waverley+Christian+College+%28wcc.vic.edu.au%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-16 | [`Cognity (cognity.gr)`](https://google.com/search?q=Cognity+%28cognity.gr%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-16 | [`Simmtech Co., Ltd.`](https://google.com/search?q=Simmtech+Co.%2C+Ltd.) | [underground](https://ransomwatch.telemetry.ltd/#/profiles?id=underground) |
 | 2024-12-16 | [`scania.pl`](https://google.com/search?q=scania.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-25 | [`Ace Laboratories Limited`](https://google.com/search?q=Ace+Laboratories+Limited) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-25 | [`Co****nt`](https://google.com/search?q=Co%2A%2A%2A%2Ant) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-11-24 | [`IT Networks`](https://google.com/search?q=IT+Networks) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-11-24 | [`MGEMAL`](https://google.com/search?q=MGEMAL) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
