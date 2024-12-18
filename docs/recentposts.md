@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-18 | [`bushandburchett.com`](https://google.com/search?q=bushandburchett.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-18 | [`www.specialtree.com`](https://google.com/search?q=www.specialtree.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-18 | [`choicemg.com`](https://google.com/search?q=choicemg.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-18 | [`Avstar Fuel Systems`](https://google.com/search?q=Avstar+Fuel+Systems) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-26 | [`isd109.org`](https://google.com/search?q=isd109.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-26 | [`parkleigh.com`](https://google.com/search?q=parkleigh.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-26 | [`reliv.la`](https://google.com/search?q=reliv.la) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-26 | [`walkingtree.org`](https://google.com/search?q=walkingtree.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
