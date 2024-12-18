@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-18 | [`medisecure.com.au`](https://google.com/search?q=medisecure.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-17 | [`redknee.com`](https://google.com/search?q=redknee.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-17 | [`nbleisuretrust.org`](https://google.com/search?q=nbleisuretrust.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-17 | [`Ecritel`](https://google.com/search?q=Ecritel) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-26 | [`cal-tool.com`](https://google.com/search?q=cal-tool.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-26 | [`Goodman, P.A.`](https://google.com/search?q=Goodman%2C+P.A.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-11-26 | [`OfficeZilla.com`](https://google.com/search?q=OfficeZilla.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-11-26 | [`dienesusa.com`](https://google.com/search?q=dienesusa.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
