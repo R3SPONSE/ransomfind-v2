@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-19 | [`Fruit of the Earth`](https://google.com/search?q=Fruit+of+the+Earth) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-18 | [`Bender GmbH &amp; Co. KG`](https://google.com/search?q=Bender+GmbH+%26amp%3B+Co.+KG) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-18 | [`Valveworks USA`](https://google.com/search?q=Valveworks+USA) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-18 | [`Wikov`](https://google.com/search?q=Wikov) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-27 | [`bolognafc.it`](https://google.com/search?q=bolognafc.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-27 | [`PK Mulyo`](https://google.com/search?q=PK+Mulyo) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-11-27 | [`Vermilion Parish School System`](https://google.com/search?q=Vermilion+Parish+School+System) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-11-27 | [`Barneek Safety Consultancies`](https://google.com/search?q=Barneek+Safety+Consultancies) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
