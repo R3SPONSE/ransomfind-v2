@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-20 | [`Microvision`](https://google.com/search?q=Microvision) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-19 | [`Krispy Kreme`](https://google.com/search?q=Krispy+Kreme) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-19 | [`Development Bank of Jamaica`](https://google.com/search?q=Development+Bank+of+Jamaica) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-19 | [`Astaphans`](https://google.com/search?q=Astaphans) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-28 | [`corenroll.com`](https://google.com/search?q=corenroll.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-28 | [`R Pac Central America S.A. de C.V.`](https://google.com/search?q=R+Pac+Central+America+S.A.+de+C.V.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-11-28 | [`http://www.gsd200.org`](https://google.com/search?q=http%3A%2F%2Fwww.gsd200.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-11-28 | [`Contrack Facilities Management`](https://google.com/search?q=Contrack+Facilities+Management) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
