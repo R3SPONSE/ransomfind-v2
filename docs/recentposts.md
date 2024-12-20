@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-20 | [`planetgroup.co.il`](https://google.com/search?q=planetgroup.co.il) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-20 | [`www.tekni-plex.com`](https://google.com/search?q=www.tekni-plex.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-20 | [`Trev Deeley Motorcycles`](https://google.com/search?q=Trev+Deeley+Motorcycles) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-20 | [`Microvision`](https://google.com/search?q=Microvision) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-28 | [`alleghenycontract.com`](https://google.com/search?q=alleghenycontract.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-28 | [`tappi.org`](https://google.com/search?q=tappi.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-28 | [`IAС`](https://google.com/search?q=IA%D0%A1) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-11-28 | [`corenroll.com`](https://google.com/search?q=corenroll.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
