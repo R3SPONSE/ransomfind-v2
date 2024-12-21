@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-21 | [`GNS Cloud Hacked`](https://google.com/search?q=GNS+Cloud+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-12-21 | [`K****S CORP`](https://google.com/search?q=K%2A%2A%2A%2AS+CORP) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-12-20 | [`Schenkelberg - Die Medienstrategen (schenkelberg-druck.de)`](https://google.com/search?q=Schenkelberg+-+Die+Medienstrategen+%28schenkelberg-druck.de%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-20 | [`Izmocars`](https://google.com/search?q=Izmocars) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-29 | [`Weld Racing (weldracing.com)`](https://google.com/search?q=Weld+Racing+%28weldracing.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-11-29 | [`ppotts.com`](https://google.com/search?q=ppotts.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-11-29 | [`Namforce Life Insurance`](https://google.com/search?q=Namforce+Life+Insurance) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
-| 2024-11-29 | [`www.bent-tree.com`](https://google.com/search?q=www.bent-tree.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
