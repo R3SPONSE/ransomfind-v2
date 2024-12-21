@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-21 | [`Fireproof Contractors Inc `](https://google.com/search?q=Fireproof+Contractors+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-21 | [`Kilgore Industries `](https://google.com/search?q=Kilgore+Industries+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-21 | [`www.marietta-city.org`](https://google.com/search?q=www.marietta-city.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-21 | [`www.groupe-setcar.com.tn`](https://google.com/search?q=www.groupe-setcar.com.tn) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-30 | [`Specialty Bolt And Screw`](https://google.com/search?q=Specialty+Bolt+And+Screw) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-29 | [`Bendheim`](https://google.com/search?q=Bendheim) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-11-29 | [`ALLTUB Group (alltub.com)`](https://google.com/search?q=ALLTUB+Group+%28alltub.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-11-29 | [`www.aras-group.ae`](https://google.com/search?q=www.aras-group.ae) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
