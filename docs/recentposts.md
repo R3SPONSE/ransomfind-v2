@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-22 | [`ibericar - Press Release`](https://google.com/search?q=ibericar+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-12-21 | [`A Beautiful Pools Inc `](https://google.com/search?q=A+Beautiful+Pools+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
 | 2024-12-21 | [`berkotfoods.com`](https://google.com/search?q=berkotfoods.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-12-21 | [`Fireproof Contractors Inc `](https://google.com/search?q=Fireproof+Contractors+Inc+) | [nitrogen](https://ransomwatch.telemetry.ltd/#/profiles?id=nitrogen) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-30 | [`backyarddiscovery.com`](https://google.com/search?q=backyarddiscovery.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-11-30 | [`Silicom Hacked`](https://google.com/search?q=Silicom+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2024-11-30 | [`Trace3`](https://google.com/search?q=Trace3) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-11-30 | [`Specialty Bolt And Screw`](https://google.com/search?q=Specialty+Bolt+And+Screw) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
