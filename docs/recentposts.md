@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-23 | [`ptcky.com\$5M\USA\902GB\&lt;1% DISCLOSED`](https://google.com/search?q=ptcky.com%5C%245M%5CUSA%5C902GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-12-23 | [`Gr****up`](https://google.com/search?q=Gr%2A%2A%2A%2Aup) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-23 | [`De****ep`](https://google.com/search?q=De%2A%2A%2A%2Aep) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-23 | [`Ri****uk`](https://google.com/search?q=Ri%2A%2A%2A%2Auk) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-01 | [`www.agenciatributaria.es`](https://google.com/search?q=www.agenciatributaria.es) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-11-30 | [`Agencia Tributaria AEAT`](https://google.com/search?q=Agencia+Tributaria+AEAT) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-11-30 | [`Everything Breaks`](https://google.com/search?q=Everything+Breaks) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2024-11-30 | [`Keable & Brown`](https://google.com/search?q=Keable+%26+Brown) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
