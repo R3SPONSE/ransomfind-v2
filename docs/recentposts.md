@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-23 | [`Ri****uk`](https://google.com/search?q=Ri%2A%2A%2A%2Auk) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-23 | [`NE****IT`](https://google.com/search?q=NE%2A%2A%2A%2AIT) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-23 | [`STIIIZY Pre-Christmas publication`](https://google.com/search?q=STIIIZY+Pre-Christmas+publication) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-22 | [`Wa****ls`](https://google.com/search?q=Wa%2A%2A%2A%2Als) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-11-30 | [`Keable & Brown`](https://google.com/search?q=Keable+%26+Brown) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-30 | [`TOC`](https://google.com/search?q=TOC) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-11-30 | [`SCM GROUP`](https://google.com/search?q=SCM+GROUP) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2024-11-30 | [`GMG`](https://google.com/search?q=GMG) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
