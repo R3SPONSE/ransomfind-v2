@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-24 | [`awimc.com\$102.7M\USA\440GB\&lt;1% DISCLOSED`](https://google.com/search?q=awimc.com%5C%24102.7M%5CUSA%5C440GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-12-24 | [`tsebrakes.com`](https://google.com/search?q=tsebrakes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-12-23 | [`acwlaw.com`](https://google.com/search?q=acwlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-12-23 | [`marmon-herrington.com`](https://google.com/search?q=marmon-herrington.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-02 | [`everde.com`](https://google.com/search?q=everde.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-02 | [`NT****st`](https://google.com/search?q=NT%2A%2A%2A%2Ast) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-02 | [`qualitybillingservice.com`](https://google.com/search?q=qualitybillingservice.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-01 | [`tascosaofficemachines.com`](https://google.com/search?q=tascosaofficemachines.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
