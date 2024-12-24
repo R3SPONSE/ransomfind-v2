@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-24 | [`www.semfin.com`](https://google.com/search?q=www.semfin.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-24 | [`SmartLynx Airlines SIA`](https://google.com/search?q=SmartLynx+Airlines+SIA) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-24 | [`awimc.com\$102.7M\USA\440GB\&lt;1% DISCLOSED`](https://google.com/search?q=awimc.com%5C%24102.7M%5CUSA%5C440GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-12-24 | [`tsebrakes.com`](https://google.com/search?q=tsebrakes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-02 | [`Conlin&#39;s Pharmacy (conlinspharmacy.com)`](https://google.com/search?q=Conlin%26%2339%3Bs+Pharmacy+%28conlinspharmacy.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-02 | [`Mmaynewagemicro`](https://google.com/search?q=Mmaynewagemicro) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-02 | [`everde.com`](https://google.com/search?q=everde.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-02 | [`NT****st`](https://google.com/search?q=NT%2A%2A%2A%2Ast) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
