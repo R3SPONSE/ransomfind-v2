@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-27 | [`[DISCLOSED] KuiperCompagnons`](https://google.com/search?q=%5BDISCLOSED%5D+KuiperCompagnons) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-12-27 | [`[DISCLOSED] Lago Group Spa`](https://google.com/search?q=%5BDISCLOSED%5D+Lago+Group+Spa) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-12-27 | [`[DISCLOSED] INFiLED`](https://google.com/search?q=%5BDISCLOSED%5D+INFiLED) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-12-27 | [`Village Community School (vcsnyc.org)`](https://google.com/search?q=Village+Community+School+%28vcsnyc.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-04 | [`BEKO TECHNOLOGIES GMBH`](https://google.com/search?q=BEKO+TECHNOLOGIES+GMBH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-04 | [`The Snatt Omlog Companies`](https://google.com/search?q=The+Snatt+Omlog+Companies) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-04 | [`Medica Corporation`](https://google.com/search?q=Medica+Corporation) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-12-04 | [`Lorne Stewart Group`](https://google.com/search?q=Lorne+Stewart+Group) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
