@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-28 | [`Farrar & Ball`](https://google.com/search?q=Farrar+%26+Ball) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2024-12-27 | [`diazfoodsolutions.es`](https://google.com/search?q=diazfoodsolutions.es) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-27 | [`[DISCLOSED] KuiperCompagnons`](https://google.com/search?q=%5BDISCLOSED%5D+KuiperCompagnons) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-12-27 | [`[DISCLOSED] Lago Group Spa`](https://google.com/search?q=%5BDISCLOSED%5D+Lago+Group+Spa) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-05 | [`Westbank Corp`](https://google.com/search?q=Westbank+Corp) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-04 | [`BT Group plc`](https://google.com/search?q=BT+Group+plc) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-12-04 | [`BEKO TECHNOLOGIES GMBH`](https://google.com/search?q=BEKO+TECHNOLOGIES+GMBH) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-12-04 | [`The Snatt Omlog Companies`](https://google.com/search?q=The+Snatt+Omlog+Companies) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
