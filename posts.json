@@ -71433,5 +71433,10 @@
         "post_title": "Compass Communications(Attack again)",
         "group_name": "ragroup",
         "discovered": "2024-12-28 20:34:22.262180"
+    },
+    {
+        "post_title": "nigico.gr",
+        "group_name": "ransomhub",
+        "discovered": "2024-12-28 22:34:55.010853"
     }
 ]

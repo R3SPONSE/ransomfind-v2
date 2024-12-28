@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-12-28 | [`nigico.gr`](https://google.com/search?q=nigico.gr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-28 | [`Compass Communications(Attack again)`](https://google.com/search?q=Compass+Communications%28Attack+again%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-28 | [`Watertown Public Schools`](https://google.com/search?q=Watertown+Public+Schools) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-28 | [`STEG Stadtentwicklung`](https://google.com/search?q=STEG+Stadtentwicklung) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-05 | [`Star Shuttle Inc.`](https://google.com/search?q=Star+Shuttle+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-05 | [`hobokennj.gov`](https://google.com/search?q=hobokennj.gov) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-12-05 | [`NTrust`](https://google.com/search?q=NTrust) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-12-05 | [`Co****ns`](https://google.com/search?q=Co%2A%2A%2A%2Ans) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
