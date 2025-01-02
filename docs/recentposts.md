@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-02 | [`groupegm.com`](https://google.com/search?q=groupegm.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-01 | [`http://www.kitevuc.com`](https://google.com/search?q=http%3A%2F%2Fwww.kitevuc.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2025-01-01 | [`CM Buck & Associates`](https://google.com/search?q=CM+Buck+%26+Associates) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-01 | [`lianbeng.sg`](https://google.com/search?q=lianbeng.sg) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-07 | [`www.dalgroup.com`](https://google.com/search?q=www.dalgroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-07 | [`www.goethe-university-frankfurt.de`](https://google.com/search?q=www.goethe-university-frankfurt.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-07 | [`www.wsgcpa.com`](https://google.com/search?q=www.wsgcpa.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-07 | [`CO-VER Power Technology SpA`](https://google.com/search?q=CO-VER+Power+Technology+SpA) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
