@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-03 | [`www.geedingconstruction.com`](https://google.com/search?q=www.geedingconstruction.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-03 | [`Nikki-Universal Co Ltd`](https://google.com/search?q=Nikki-Universal+Co+Ltd) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-01-02 | [`confluxhr.com`](https://google.com/search?q=confluxhr.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2025-01-02 | [`groupegm.com`](https://google.com/search?q=groupegm.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-07 | [`www.fibrogen.com`](https://google.com/search?q=www.fibrogen.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-07 | [`www.giorgiovisconti.it`](https://google.com/search?q=www.giorgiovisconti.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-07 | [`www.kiswire.com`](https://google.com/search?q=www.kiswire.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-07 | [`www.dalgroup.com`](https://google.com/search?q=www.dalgroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
