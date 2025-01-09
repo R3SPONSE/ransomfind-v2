@@ -71673,5 +71673,10 @@
         "post_title": "CO-VER Power Technology SpA Data Leak",
         "group_name": "everest",
         "discovered": "2025-01-09 14:33:02.269999"
+    },
+    {
+        "post_title": "Izmocars Data Leak",
+        "group_name": "everest",
+        "discovered": "2025-01-09 16:34:50.365384"
     }
 ]
