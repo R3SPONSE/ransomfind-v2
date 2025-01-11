@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-11 | [`OmniRide (omniride.com)`](https://google.com/search?q=OmniRide+%28omniride.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-01-11 | [`alansarioman.com`](https://google.com/search?q=alansarioman.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-01-11 | [`castlehillha.co.uk`](https://google.com/search?q=castlehillha.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-11 | [`drive-lines.com`](https://google.com/search?q=drive-lines.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-13 | [`Maxus Group`](https://google.com/search?q=Maxus+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-13 | [`Long Beach Convention Center`](https://google.com/search?q=Long+Beach+Convention+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-13 | [`Artemis Holding`](https://google.com/search?q=Artemis+Holding) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-12-13 | [`Myhealthcarebilling`](https://google.com/search?q=Myhealthcarebilling) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
