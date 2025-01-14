@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-14 | [`viacaojacarei.com.br`](https://google.com/search?q=viacaojacarei.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-14 | [`pittman-construction.com`](https://google.com/search?q=pittman-construction.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-14 | [`oyolasvegas.com`](https://google.com/search?q=oyolasvegas.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-14 | [`nicatel.com.uy`](https://google.com/search?q=nicatel.com.uy) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-17 | [`kuritaamerica.com`](https://google.com/search?q=kuritaamerica.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-12-17 | [`Welker`](https://google.com/search?q=Welker) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-17 | [`South Plains Implement`](https://google.com/search?q=South+Plains+Implement) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-12-17 | [`Lanigan Ryan`](https://google.com/search?q=Lanigan+Ryan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
