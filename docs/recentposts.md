@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-14 | [`gelco-s-a.com.br`](https://google.com/search?q=gelco-s-a.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-14 | [`candelasyasociados.es`](https://google.com/search?q=candelasyasociados.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-14 | [`atpformosa.gob.ar`](https://google.com/search?q=atpformosa.gob.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-14 | [`Solaris Pharma`](https://google.com/search?q=Solaris+Pharma) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-17 | [`Bio-Clima Service Srl Data Leak`](https://google.com/search?q=Bio-Clima+Service+Srl+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-17 | [`Asaro Dental Aesthetics Data Leak`](https://google.com/search?q=Asaro+Dental+Aesthetics+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-12-17 | [`Artistic Family Dental;Value Dental Center;Sparkling Smiles Family Dentistry Data Leak`](https://google.com/search?q=Artistic+Family+Dental%3BValue+Dental+Center%3BSparkling+Smiles+Family+Dentistry+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-12-17 | [`Joshua Grading & Excavating`](https://google.com/search?q=Joshua+Grading+%26+Excavating) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
