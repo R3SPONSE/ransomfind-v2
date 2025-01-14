@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-14 | [`pittman-construction.com`](https://google.com/search?q=pittman-construction.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-14 | [`oyolasvegas.com`](https://google.com/search?q=oyolasvegas.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-14 | [`nicatel.com.uy`](https://google.com/search?q=nicatel.com.uy) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-14 | [`lamejor.com.co`](https://google.com/search?q=lamejor.com.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-17 | [`Welker`](https://google.com/search?q=Welker) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-17 | [`South Plains Implement`](https://google.com/search?q=South+Plains+Implement) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-12-17 | [`Lanigan Ryan`](https://google.com/search?q=Lanigan+Ryan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-12-17 | [`Total Patient Care LLC;A Sensitive Touch Home Health;Alphastar Home Health Care;Heart of T`](https://google.com/search?q=Total+Patient+Care+LLC%3BA+Sensitive+Touch+Home+Health%3BAlphastar+Home+Health+Care%3BHeart+of+T) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
