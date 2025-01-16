@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-16 | [`Access Capital Partners SA`](https://google.com/search?q=Access+Capital+Partners+SA) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-16 | [`bsegroup.it`](https://google.com/search?q=bsegroup.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-16 | [`www.solariumrevestimentos.com.br`](https://google.com/search?q=www.solariumrevestimentos.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-16 | [`www.liteputer.com.tw`](https://google.com/search?q=www.liteputer.com.tw) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-19 | [`Cottrell P.C.`](https://google.com/search?q=Cottrell+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-19 | [`Gagne, LLC.`](https://google.com/search?q=Gagne%2C+LLC.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-19 | [`lockbit4.com`](https://google.com/search?q=lockbit4.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-12-19 | [`Furmano’s`](https://google.com/search?q=Furmano%E2%80%99s) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
