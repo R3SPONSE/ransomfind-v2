@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-16 | [`QualiTech (qualitech.com)`](https://google.com/search?q=QualiTech+%28qualitech.com%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-16 | [`Kinseth Hospitality Companies `](https://google.com/search?q=Kinseth+Hospitality+Companies+) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-16 | [`Douglas County, GA (DDCWSA.COM)`](https://google.com/search?q=Douglas+County%2C+GA+%28DDCWSA.COM%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-16 | [`Access Capital Partners SA`](https://google.com/search?q=Access+Capital+Partners+SA) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-19 | [`massdevelopment.com\$24.6M\USA\1.2TB\&lt;1% DISCLOSED`](https://google.com/search?q=massdevelopment.com%5C%2424.6M%5CUSA%5C1.2TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-12-19 | [`National Atomic Energy Commission`](https://google.com/search?q=National+Atomic+Energy+Commission) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2024-12-19 | [`bataviacontainer.com`](https://google.com/search?q=bataviacontainer.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-12-19 | [`Cottrell P.C.`](https://google.com/search?q=Cottrell+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
