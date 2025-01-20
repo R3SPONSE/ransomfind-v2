@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-20 | [`Zuk Group Hacked`](https://google.com/search?q=Zuk+Group+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-01-20 | [`Clutch Industries`](https://google.com/search?q=Clutch+Industries) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-20 | [`P****b.gov.pk`](https://google.com/search?q=P%2A%2A%2A%2Ab.gov.pk) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-01-19 | [`TG3 Electronics`](https://google.com/search?q=TG3+Electronics) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-21 | [`K****S CORP`](https://google.com/search?q=K%2A%2A%2A%2AS+CORP) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-12-20 | [`Schenkelberg - Die Medienstrategen (schenkelberg-druck.de)`](https://google.com/search?q=Schenkelberg+-+Die+Medienstrategen+%28schenkelberg-druck.de%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-20 | [`Izmocars`](https://google.com/search?q=Izmocars) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-12-20 | [`Genie Healthcare`](https://google.com/search?q=Genie+Healthcare) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
