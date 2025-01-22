@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-22 | [`SANTA MARIA LABORATORIO`](https://google.com/search?q=SANTA+MARIA+LABORATORIO) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-01-22 | [`Christian Community Aid`](https://google.com/search?q=Christian+Community+Aid) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-01-22 | [`www.americanstandard-us.com`](https://google.com/search?q=www.americanstandard-us.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-22 | [`precisionmechsd.com`](https://google.com/search?q=precisionmechsd.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-23 | [`De****ep`](https://google.com/search?q=De%2A%2A%2A%2Aep) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-23 | [`Ri****uk`](https://google.com/search?q=Ri%2A%2A%2A%2Auk) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-23 | [`NE****IT`](https://google.com/search?q=NE%2A%2A%2A%2AIT) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-12-23 | [`STIIIZY Pre-Christmas publication`](https://google.com/search?q=STIIIZY+Pre-Christmas+publication) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
