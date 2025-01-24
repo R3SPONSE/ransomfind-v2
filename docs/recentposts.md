@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-24 | [`Kooijman Vianen (kooijmanvianen.nl)`](https://google.com/search?q=Kooijman+Vianen+%28kooijmanvianen.nl%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-01-23 | [`samsill.com`](https://google.com/search?q=samsill.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-23 | [`topackt.com`](https://google.com/search?q=topackt.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-01-23 | [`archaeologicalresearchservices.com`](https://google.com/search?q=archaeologicalresearchservices.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-24 | [`Industria e Comercio Jolitex Ltda (jolitex.com)`](https://google.com/search?q=Industria+e+Comercio+Jolitex+Ltda+%28jolitex.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-24 | [`RODS Surveying (rods.cc)`](https://google.com/search?q=RODS+Surveying+%28rods.cc%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-24 | [`intellinet-es.com`](https://google.com/search?q=intellinet-es.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-24 | [`www.semfin.com`](https://google.com/search?q=www.semfin.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
