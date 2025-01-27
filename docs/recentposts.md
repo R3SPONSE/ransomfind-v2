@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-27 | [`Weeks, Brucker &#038; Coleman, Ltd - Legal Services`](https://google.com/search?q=Weeks%2C+Brucker+%26%23038%3B+Coleman%2C+Ltd+-+Legal+Services) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-01-26 | [`AIshu, Eshoo`](https://google.com/search?q=AIshu%2C+Eshoo) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-01-26 | [`Metro Wire &amp; Cable`](https://google.com/search?q=Metro+Wire+%26amp%3B+Cable) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-01-25 | [`envirosep.com`](https://google.com/search?q=envirosep.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-26 | [`Associates`](https://google.com/search?q=Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-26 | [`Caframo Limited.`](https://google.com/search?q=Caframo+Limited.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-12-26 | [`http://www.advokatur-bl.ch`](https://google.com/search?q=http%3A%2F%2Fwww.advokatur-bl.ch) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2024-12-25 | [`Reutone Hacked`](https://google.com/search?q=Reutone+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
