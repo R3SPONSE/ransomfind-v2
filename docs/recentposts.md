@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-27 | [`Alo Center (hq.aloteknik.se)`](https://google.com/search?q=Alo+Center+%28hq.aloteknik.se%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-27 | [`https://leehartman.com`](https://google.com/search?q=https%3A%2F%2Fleehartman.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2025-01-27 | [`Weeks, Brucker &#038; Coleman, Ltd - Legal Services`](https://google.com/search?q=Weeks%2C+Brucker+%26%23038%3B+Coleman%2C+Ltd+-+Legal+Services) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-01-26 | [`AIshu, Eshoo`](https://google.com/search?q=AIshu%2C+Eshoo) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-26 | [`Ober Mountain (OberGatlinburg.com)`](https://google.com/search?q=Ober+Mountain+%28OberGatlinburg.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-26 | [`Family Help & Wellness`](https://google.com/search?q=Family+Help+%26+Wellness) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-12-26 | [`Associates`](https://google.com/search?q=Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-12-26 | [`Caframo Limited.`](https://google.com/search?q=Caframo+Limited.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
