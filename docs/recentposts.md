@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-28 | [`sce.org.sg`](https://google.com/search?q=sce.org.sg) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-28 | [`www.healthcarewithinreach.org`](https://google.com/search?q=www.healthcarewithinreach.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-27 | [`Alo Center (hq.aloteknik.se)`](https://google.com/search?q=Alo+Center+%28hq.aloteknik.se%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-27 | [`https://leehartman.com`](https://google.com/search?q=https%3A%2F%2Fleehartman.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-27 | [`[DISCLOSED] INFiLED`](https://google.com/search?q=%5BDISCLOSED%5D+INFiLED) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-12-27 | [`Village Community School (vcsnyc.org)`](https://google.com/search?q=Village+Community+School+%28vcsnyc.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2024-12-26 | [`Ober Mountain (OberGatlinburg.com)`](https://google.com/search?q=Ober+Mountain+%28OberGatlinburg.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2024-12-26 | [`Family Help & Wellness`](https://google.com/search?q=Family+Help+%26+Wellness) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
