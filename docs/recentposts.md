@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-29 | [`Cimarron Telephone Company`](https://google.com/search?q=Cimarron+Telephone+Company) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-29 | [`Cahoon Farms`](https://google.com/search?q=Cahoon+Farms) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-29 | [`By design`](https://google.com/search?q=By+design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-29 | [`Boutin Jones (boutindentino.com)`](https://google.com/search?q=Boutin+Jones+%28boutindentino.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-28 | [`nigico.gr`](https://google.com/search?q=nigico.gr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-28 | [`Compass Communications(Attack again)`](https://google.com/search?q=Compass+Communications%28Attack+again%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2024-12-28 | [`Watertown Public Schools`](https://google.com/search?q=Watertown+Public+Schools) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-12-28 | [`STEG Stadtentwicklung`](https://google.com/search?q=STEG+Stadtentwicklung) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
