@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-30 | [`nenok.de`](https://google.com/search?q=nenok.de) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-01-30 | [`FENSTERMAKER`](https://google.com/search?q=FENSTERMAKER) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-01-30 | [`alkodistributors.com\$33.5M\USA\345GB\&lt;1% DISCLOSED`](https://google.com/search?q=alkodistributors.com%5C%2433.5M%5CUSA%5C345GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-30 | [`daVinci`](https://google.com/search?q=daVinci) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-12-30 | [`Enge Ilha Construção`](https://google.com/search?q=Enge+Ilha+Constru%C3%A7%C3%A3o) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-30 | [`Hi-Raise Constructions Holding`](https://google.com/search?q=Hi-Raise+Constructions+Holding) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-12-30 | [`Megaexit`](https://google.com/search?q=Megaexit) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
-| 2024-12-30 | [`Wosac`](https://google.com/search?q=Wosac) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
