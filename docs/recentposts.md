@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-01-31 | [`soitinlaine.fi`](https://google.com/search?q=soitinlaine.fi) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2025-01-31 | [`ttucorp.com\$27.6M\USA\1TB\&lt;1% DISCLOSED`](https://google.com/search?q=ttucorp.com%5C%2427.6M%5CUSA%5C1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-31 | [`jayaapparelgroup.com\$60.6M\USA\824GB\&lt;1% DISCLOSED`](https://google.com/search?q=jayaapparelgroup.com%5C%2460.6M%5CUSA%5C824GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-31 | [`johnpaulrichard.com\$60M\USA\985GB\&lt;1% DISCLOSED`](https://google.com/search?q=johnpaulrichard.com%5C%2460M%5CUSA%5C985GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-01 | [`CM Buck & Associates`](https://google.com/search?q=CM+Buck+%26+Associates) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-01 | [`lianbeng.sg`](https://google.com/search?q=lianbeng.sg) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-12-31 | [`www.metlife.com`](https://google.com/search?q=www.metlife.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-12-31 | [`Zeifmans`](https://google.com/search?q=Zeifmans) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
