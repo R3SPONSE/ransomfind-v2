@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-01 | [`Falcon Gaming`](https://google.com/search?q=Falcon+Gaming) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-02-01 | [`Eascon`](https://google.com/search?q=Eascon) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-02-01 | [`CAMRIDGEPORT`](https://google.com/search?q=CAMRIDGEPORT) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2025-02-01 | [`Utilissimo Transportes`](https://google.com/search?q=Utilissimo+Transportes) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-07 | [`D-7 Roofing`](https://google.com/search?q=D-7+Roofing) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-07 | [`Sunflower Medical Group`](https://google.com/search?q=Sunflower+Medical+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-06 | [`yoniot.cn`](https://google.com/search?q=yoniot.cn) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2025-01-06 | [`molars.co.ke`](https://google.com/search?q=molars.co.ke) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
