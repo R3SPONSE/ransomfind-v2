@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-01 | [`Utilissimo Transportes`](https://google.com/search?q=Utilissimo+Transportes) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-02-01 | [`GATTELLI SpA`](https://google.com/search?q=GATTELLI+SpA) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-02-01 | [`Technico`](https://google.com/search?q=Technico) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2025-01-31 | [`Gitlabs: Prasaga, HE2B, Kombinat`](https://google.com/search?q=Gitlabs%3A+Prasaga%2C+HE2B%2C+Kombinat) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-06 | [`molars.co.ke`](https://google.com/search?q=molars.co.ke) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-05 | [`Hunter Taubman Fischer & Li`](https://google.com/search?q=Hunter+Taubman+Fischer+%26+Li) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-04 | [`Montreal North`](https://google.com/search?q=Montreal+North) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2025-01-03 | [`Amourgis & Associates`](https://google.com/search?q=Amourgis+%26+Associates) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
