@@ -4,11 +4,11 @@ _february 3rd, 2025_
 
 ransomwatch is currently crawling `452` sites belonging to `212` unique groups
 
-⏲ there have been `11` posts within the `last 24 hours`
+⏲ there have been `10` posts within the `last 24 hours`
 
 🦈 there have been `25` posts within the `month of february`
 
-🪐 there have been `780` posts within the `last 90 days`
+🪐 there have been `779` posts within the `last 90 days`
 
 🏚 there have been `231` posts within the `year of 2025`
 
