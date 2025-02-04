@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-04 | [`Dickerson & Nieman Realtors`](https://google.com/search?q=Dickerson+%26+Nieman+Realtors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-04 | [`Daniel Island Club`](https://google.com/search?q=Daniel+Island+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-04 | [`ITSS`](https://google.com/search?q=ITSS) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2025-02-04 | [`C2S Technologies Inc.`](https://google.com/search?q=C2S+Technologies+Inc.) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-10 | [`amerplumb.com`](https://google.com/search?q=amerplumb.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-10 | [`www.excelresourcing.co.uk`](https://google.com/search?q=www.excelresourcing.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-10 | [`xtremmedia.com`](https://google.com/search?q=xtremmedia.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-01-10 | [`massdevelopment.com\$24.6M\USA\1.2TB\100% DISCLOSED`](https://google.com/search?q=massdevelopment.com%5C%2424.6M%5CUSA%5C1.2TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
