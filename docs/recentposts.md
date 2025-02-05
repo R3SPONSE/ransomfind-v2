@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-05 | [`capstoneins.ca`](https://google.com/search?q=capstoneins.ca) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-05 | [`clarkfreightways.com`](https://google.com/search?q=clarkfreightways.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-05 | [`sportadmin.se`](https://google.com/search?q=sportadmin.se) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-05 | [`cornwelltools.com\$218.7M\USA\4.6TB\&lt;1% DISCLOSED`](https://google.com/search?q=cornwelltools.com%5C%24218.7M%5CUSA%5C4.6TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-11 | [`Arun Estates`](https://google.com/search?q=Arun+Estates) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2025-01-11 | [`Brachot`](https://google.com/search?q=Brachot) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2025-01-11 | [`Avril Supermarché Santé`](https://google.com/search?q=Avril+Supermarch%C3%A9+Sant%C3%A9) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2025-01-11 | [`Mortgage Investors Group (MIG)`](https://google.com/search?q=Mortgage+Investors+Group+%28MIG%29) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
