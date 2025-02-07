@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-07 | [`Shinsung Delta Tech`](https://google.com/search?q=Shinsung+Delta+Tech) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-07 | [`teamues.com`](https://google.com/search?q=teamues.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-07 | [`Banfi Vintners`](https://google.com/search?q=Banfi+Vintners) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-07 | [`sautech.edu`](https://google.com/search?q=sautech.edu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-14 | [`udb.net`](https://google.com/search?q=udb.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-14 | [`The Chicano Federation`](https://google.com/search?q=The+Chicano+Federation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2025-01-14 | [`viacaojacarei.com.br`](https://google.com/search?q=viacaojacarei.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2025-01-14 | [`pittman-construction.com`](https://google.com/search?q=pittman-construction.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
