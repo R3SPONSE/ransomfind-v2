@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-08 | [`R******e.tw`](https://google.com/search?q=R%2A%2A%2A%2A%2A%2Ae.tw) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-08 | [`SAKAI SOUKEN Co.`](https://google.com/search?q=SAKAI+SOUKEN+Co.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-08 | [`M****s.info`](https://google.com/search?q=M%2A%2A%2A%2As.info) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-08 | [`Lexington Electric `](https://google.com/search?q=Lexington+Electric+) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-15 | [`optiline.com\$127.3M\USA\947GB\&lt;1% DISCLOSED`](https://google.com/search?q=optiline.com%5C%24127.3M%5CUSA%5C947GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-15 | [`FSOCIETY X FUNKSEC`](https://google.com/search?q=FSOCIETY+X+FUNKSEC) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-01-15 | [`A*****Y.com`](https://google.com/search?q=A%2A%2A%2A%2A%2AY.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-01-15 | [`www.eurocert.pl`](https://google.com/search?q=www.eurocert.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
