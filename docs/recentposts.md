@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-09 | [`Gitlabs: Universitatea Politehnica din Bucuresti, Maxvy Technologies Pvt, iRidge Inc.`](https://google.com/search?q=Gitlabs%3A+Universitatea+Politehnica+din+Bucuresti%2C+Maxvy+Technologies+Pvt%2C+iRidge+Inc.) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-09 | [`Hpisd.org`](https://google.com/search?q=Hpisd.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-09 | [`wwcsd.net`](https://google.com/search?q=wwcsd.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-09 | [`Israel Police Hacked`](https://google.com/search?q=Israel+Police+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-15 | [`fplfood.com\$675M\USA\21GB\&lt;1% DISCLOSED`](https://google.com/search?q=fplfood.com%5C%24675M%5CUSA%5C21GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-15 | [`The University of Oklahoma (ou.edu)`](https://google.com/search?q=The+University+of+Oklahoma+%28ou.edu%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-01-15 | [`SciTech Services, Inc.`](https://google.com/search?q=SciTech+Services%2C+Inc.) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-01-15 | [`Buttery (butterycompany.com)`](https://google.com/search?q=Buttery+%28butterycompany.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
