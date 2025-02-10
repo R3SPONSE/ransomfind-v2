@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-10 | [`abcapital.com.ph`](https://google.com/search?q=abcapital.com.ph) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-10 | [`Lexington Electric`](https://google.com/search?q=Lexington+Electric) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-10 | [`Marshall Motor Holdings`](https://google.com/search?q=Marshall+Motor+Holdings) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-09 | [`Leading Edge Specialized Dentistry`](https://google.com/search?q=Leading+Edge+Specialized+Dentistry) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-16 | [`www.solariumrevestimentos.com.br`](https://google.com/search?q=www.solariumrevestimentos.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-16 | [`www.liteputer.com.tw`](https://google.com/search?q=www.liteputer.com.tw) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-16 | [`communisis.com & paragon.world`](https://google.com/search?q=communisis.com+%26+paragon.world) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-15 | [`Lowe Engineers`](https://google.com/search?q=Lowe+Engineers) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
