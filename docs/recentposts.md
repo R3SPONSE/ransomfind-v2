@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-12 | [`Cold Storage Manufacturing`](https://google.com/search?q=Cold+Storage+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-11 | [`Baltimore Country Club`](https://google.com/search?q=Baltimore+Country+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-11 | [`Aurora Public Schools (aurorak12.org)`](https://google.com/search?q=Aurora+Public+Schools+%28aurorak12.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-11 | [`Saint George&#39;s College (saintgeorge.cl)`](https://google.com/search?q=Saint+George%26%2339%3Bs+College+%28saintgeorge.cl%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-18 | [`Kassin & Carrow`](https://google.com/search?q=Kassin+%26+Carrow) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-17 | [`PHG CPAs (bushman.biz)`](https://google.com/search?q=PHG+CPAs+%28bushman.biz%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-17 | [`Browdy (bl.local)`](https://google.com/search?q=Browdy+%28bl.local%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-17 | [`Novati Constructions`](https://google.com/search?q=Novati+Constructions) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
