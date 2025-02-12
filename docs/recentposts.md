@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-12 | [`Shinn Fu Company of America`](https://google.com/search?q=Shinn+Fu+Company+of+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-12 | [`ROCK SOLID Stabilization & Reclamation`](https://google.com/search?q=ROCK+SOLID+Stabilization+%26+Reclamation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-12 | [`Neaton Auto Products Manufacturing`](https://google.com/search?q=Neaton+Auto+Products+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-12 | [`Monroe Transportation Services Inc`](https://google.com/search?q=Monroe+Transportation+Services+Inc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-21 | [`Marukai`](https://google.com/search?q=Marukai) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-20 | [`PetroVietnam Exploration Production Corporation`](https://google.com/search?q=PetroVietnam+Exploration+Production+Corporation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-01-20 | [`Kinseth Hospitality Companies`](https://google.com/search?q=Kinseth+Hospitality+Companies) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
-| 2025-01-20 | [`Sentinel Systems`](https://google.com/search?q=Sentinel+Systems) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
