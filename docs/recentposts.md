@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-14 | [`thejdkgroup.com`](https://google.com/search?q=thejdkgroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-14 | [`snoqualmietribe.us`](https://google.com/search?q=snoqualmietribe.us) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-14 | [`www.calspa.it`](https://google.com/search?q=www.calspa.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-14 | [`brockbanks.co.uk`](https://google.com/search?q=brockbanks.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-23 | [`www.missionbank.bank`](https://google.com/search?q=www.missionbank.bank) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-01-23 | [`Cyrious Software`](https://google.com/search?q=Cyrious+Software) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-01-23 | [`Medical Associates of Brevard`](https://google.com/search?q=Medical+Associates+of+Brevard) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-01-23 | [`Gossett Motor Cars `](https://google.com/search?q=Gossett+Motor+Cars+) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
