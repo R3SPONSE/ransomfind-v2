@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-15 | [`burdickpainting.com`](https://google.com/search?q=burdickpainting.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-15 | [`columbiacabinets.com`](https://google.com/search?q=columbiacabinets.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-15 | [`halex.com`](https://google.com/search?q=halex.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2025-02-15 | [`ekvallbyrne.com`](https://google.com/search?q=ekvallbyrne.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-24 | [`ELTEK Group (eltekgroup.com)`](https://google.com/search?q=ELTEK+Group+%28eltekgroup.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-01-24 | [`De La Salle High School (dlshs.org)`](https://google.com/search?q=De+La+Salle+High+School+%28dlshs.org%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-01-24 | [`Punjab.gov.pk`](https://google.com/search?q=Punjab.gov.pk) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-01-24 | [`Arrow Motor Auctions`](https://google.com/search?q=Arrow+Motor+Auctions) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
