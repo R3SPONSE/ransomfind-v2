@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-16 | [`A*u.edu.au`](https://google.com/search?q=A%2Au.edu.au) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-16 | [`Heritage South Credit Union`](https://google.com/search?q=Heritage+South+Credit+Union) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-02-16 | [`askgs.ma`](https://google.com/search?q=askgs.ma) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-16 | [`slchc.edu`](https://google.com/search?q=slchc.edu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-29 | [`Israel Ministry of National Security Hacked`](https://google.com/search?q=Israel+Ministry+of+National+Security+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-01-29 | [`Acoustiblok`](https://google.com/search?q=Acoustiblok) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-01-29 | [`BBLAWFIRM`](https://google.com/search?q=BBLAWFIRM) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2025-01-28 | [`lnetwork`](https://google.com/search?q=lnetwork) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
