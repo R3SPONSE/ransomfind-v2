@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-16 | [`www.transcend-info.com`](https://google.com/search?q=www.transcend-info.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-16 | [`www.naga.ae`](https://google.com/search?q=www.naga.ae) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-16 | [`saulttribe.com/kewadin.com`](https://google.com/search?q=saulttribe.com%2Fkewadin.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-15 | [`www.imgenterprises.com`](https://google.com/search?q=www.imgenterprises.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-27 | [`Alo Center (hq.aloteknik.se)`](https://google.com/search?q=Alo+Center+%28hq.aloteknik.se%29) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-01-27 | [`https://leehartman.com`](https://google.com/search?q=https%3A%2F%2Fleehartman.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2025-01-27 | [`Weeks, Brucker &#038; Coleman, Ltd - Legal Services`](https://google.com/search?q=Weeks%2C+Brucker+%26%23038%3B+Coleman%2C+Ltd+-+Legal+Services) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2025-01-26 | [`AIshu, Eshoo`](https://google.com/search?q=AIshu%2C+Eshoo) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
