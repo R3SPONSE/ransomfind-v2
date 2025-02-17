@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-17 | [`Realtime.tw`](https://google.com/search?q=Realtime.tw) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-17 | [`E*******s.gov.zm`](https://google.com/search?q=E%2A%2A%2A%2A%2A%2A%2As.gov.zm) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-16 | [`annegrady.org`](https://google.com/search?q=annegrady.org) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-02-16 | [`A*u.edu.au`](https://google.com/search?q=A%2Au.edu.au) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-29 | [`By design`](https://google.com/search?q=By+design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-29 | [`Boutin Jones (boutindentino.com)`](https://google.com/search?q=Boutin+Jones+%28boutindentino.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-01-29 | [`W*****e.com`](https://google.com/search?q=W%2A%2A%2A%2A%2Ae.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-01-29 | [`Israel Ministry of National Security Hacked`](https://google.com/search?q=Israel+Ministry+of+National+Security+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
