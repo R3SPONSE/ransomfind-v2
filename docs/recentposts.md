@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-17 | [`northernresponse.com\$17.4M\Canada\366GB\100% DISCLOSED`](https://google.com/search?q=northernresponse.com%5C%2417.4M%5CCanada%5C366GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-17 | [`savoiesfoods.com\$18.2M\USA\95GB\100% DISCLOSED`](https://google.com/search?q=savoiesfoods.com%5C%2418.2M%5CUSA%5C95GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-17 | [`Gitlabs: Acqua development, QBurst, Pamyra.de`](https://google.com/search?q=Gitlabs%3A+Acqua+development%2C+QBurst%2C+Pamyra.de) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-17 | [`Gpstech2007.com`](https://google.com/search?q=Gpstech2007.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-30 | [`Johnston`](https://google.com/search?q=Johnston) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-29 | [`Commercial & Residential Management Group`](https://google.com/search?q=Commercial+%26+Residential+Management+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-01-29 | [`SCV Med Group`](https://google.com/search?q=SCV+Med+Group) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2025-01-29 | [`Cimarron Telephone Company`](https://google.com/search?q=Cimarron+Telephone+Company) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
