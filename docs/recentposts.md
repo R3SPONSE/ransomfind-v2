@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-18 | [`Cuna Supply`](https://google.com/search?q=Cuna+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-18 | [`Bushmans`](https://google.com/search?q=Bushmans) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-17 | [`Bulldog Oilfield Services`](https://google.com/search?q=Bulldog+Oilfield+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-17 | [`The Townsley Law Firm Information`](https://google.com/search?q=The+Townsley+Law+Firm+Information) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-01-30 | [`FENSTERMAKER`](https://google.com/search?q=FENSTERMAKER) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-01-30 | [`alkodistributors.com\$33.5M\USA\345GB\&lt;1% DISCLOSED`](https://google.com/search?q=alkodistributors.com%5C%2433.5M%5CUSA%5C345GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-01-30 | [`daVinci`](https://google.com/search?q=daVinci) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-01-30 | [`Wallin & Klarich`](https://google.com/search?q=Wallin+%26+Klarich) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
